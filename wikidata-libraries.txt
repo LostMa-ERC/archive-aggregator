@@ -1,0 +1,30 @@
+SELECT ?item ?viaf ?itemLabel ?itemPoint ?continent ?continentLabel ?country ?countryLabel ?city ?cityGeoName ?cityPoint ?cityLabel ?locality ?localityLabel {
+  {
+SELECT 
+  ?item
+  (SAMPLE(?viaf) AS ?viaf)
+  (SAMPLE(?itemLabel) AS ?itemLabel) 
+  (SAMPLE(?point) AS ?itemPoint) 
+  (SAMPLE(?country) AS ?country)
+  (SAMPLE(?continent) AS ?continent)
+  (SAMPLE(?city) AS ?city)
+  (SAMPLE(?cityPoint) AS ?cityPoint)
+  (SAMPLE(?cityGeoName) AS ?cityGeoName)
+  (SAMPLE(?locality) AS ?locality)
+WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q7075 ; wdt:P856 ?website.
+  ?item wdt:p214 ?viaf.
+  ?item wdt:P625 ?point.
+  ?item wdt:P17 ?country.
+  ?country wdt:P30 ?continent.
+  ?item wdt:P131 ?city.
+  ?city wdt:P1566 ?cityGeoName.
+  ?city wdt:P625 ?cityPoint.
+  ?city wdt:P131 ?locality.
+}
+  GROUP BY ?item
+}
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,fr,de,es"
+  } 
+  }
