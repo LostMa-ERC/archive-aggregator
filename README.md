@@ -80,3 +80,12 @@ mysql> select * from geonames_cities limit 1;
 1 row in set (0,00 sec)
 
 ```
+
+## 3. Clean known, systemic problems
+
+- Apply the SQL script [`paris_arrond.sql`](cleaning/paris_arrond.sql), which creates a working wikidata table and fixes an issue where some archives in Paris have the GeoNames ID of an arrondissement in Paris rather than the city itself.
+- Apply the SQL script [`combine_geo_wiki.sql`](cleaning/combine_geo_wiki.sql), which enriches the dataset of archives from WikiData with geographic data from GeoNames.
+- Export that selection as a CSV for further manual cleaning.
+
+## 4. Manually clean small problems
+- Be wary of "cities" whose names (`cityName`) are identical to the value in `cityAdminName1`. Sometimes the "city" registered in the WikiData is not a city but rather a state, province, etc.
