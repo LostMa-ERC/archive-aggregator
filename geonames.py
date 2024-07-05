@@ -16,14 +16,20 @@ GEO = os.environ["GEONAMES"]
 ID_COL = "cityGeoName"
 
 SELECT_STATEMENT = f"""
-SELECT DISTINCT w.{ID_COL}
-FROM wikidata w
-LEFT JOIN geonames_cities gc ON gc.id = w.{ID_COL}
-WHERE gc.id IS NULL
+SELECT id FROM geonames_cities WHERE toponymName IS NULL
 """
 INSERT_STATEMENT = f"""
-REPLACE INTO geonames_cities(id, toponymName, asciiName, lat, lng, adminName1, adminName2, adminName3, countryName)
-VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+UPDATE geonames_cities
+SET
+    toponymName = %s, 
+    asciiName = %s, 
+    lat = %s, 
+    lng = %s, 
+    adminName1 = %s, 
+    adminName2 = %s,
+    adminName3 = %s, 
+    countryName = %s
+WHERE id = %s
 """
 
 
@@ -71,7 +77,6 @@ with DBConnection(username=USER, password=PASS) as db, Progress(
         elif r:
             p.advance(gt)
             data = (
-                id[0],
                 r["toponymName"],
                 r["asciiName"],
                 r["lat"],
@@ -80,6 +85,7 @@ with DBConnection(username=USER, password=PASS) as db, Progress(
                 r["adminName2"],
                 r["adminName3"],
                 r["countryName"],
+                id[0],
             )
             try:
                 db.commit(
@@ -90,6 +96,7 @@ with DBConnection(username=USER, password=PASS) as db, Progress(
             except Exception as e:
                 print(data)
                 print(INSERT_STATEMENT)
+                print(INSERT_STATEMENT % data)
                 raise e
             p.advance(st)
     db.connector.commit()
