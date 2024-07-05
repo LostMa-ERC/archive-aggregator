@@ -87,6 +87,7 @@ with DBConnection(username=USER, password=PASS) as db, Progress(
                 r["countryName"],
                 id[0],
             )
+            data = [i if i != "" else None for i in data]
             try:
                 db.commit(
                     operation=INSERT_STATEMENT,
