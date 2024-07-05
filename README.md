@@ -65,7 +65,7 @@ $ export GEONAMES=username
 $ export MYSQL_USER=username
 $ export MYSQL_PASS=password
 ```
-- Run the python script that [`geonames.py`], which creates the table 'geonames_cities' and populates it with cities in which WikiData says the institutions in the 'archives' table are located.
+- Run the python script that [`geonames.py`](geonames.py), which creates the table 'geonames_cities' and populates it with cities in which WikiData says the institutions in the 'archives' table are located.
 ```shell
 $ python geonames.py
 ```
