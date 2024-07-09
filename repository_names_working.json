@@ -1,0 +1,4581 @@
+{
+    "136949486": {
+        "name": "University of Leeds. Brotherton library",
+        "alternativeNames": [
+            "Brotherton library Leeds, GB",
+            "Brotherton Library",
+            "Brotherton Library (Leeds)",
+            "University of Leeds, Brotherton Library Leeds (GB-LEbc)",
+            "Leeds University Library. Brotherton Library"
+        ],
+        "ISNI": "0000000122908835",
+        "space": "leeds",
+        "cityGEO": {
+            "id": 2644688,
+            "name": "Leeds",
+            "admin1": "England",
+            "point": "POINT(-1.54785 53.79648)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "155505991": {
+        "name": "Archives départementales de l'Eure",
+        "alternativeNames": [
+            "Archives Départementales de l'Eure (Évreux)",
+            "Archives départementales de l'Eure service public départementalisé de gestion des archives en dépôt",
+            "Archives départementales (Eure)",
+            "Eure. Archives départementales"       
+        ],
+        "ISNI": "0000000121903565",
+        "space": "evreux",
+        "cityGEO": {
+            "id": 3019265,
+            "name": "Évreux",
+            "admin1": "Normandy",
+            "point": "POINT(1.15082 49.02414)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "122615193": {
+        "name": "Médiathèque municipale Jean-Lévy Lille",
+        "alternativeNames": [
+            "Médiathèque municipale Jean Lévy Lille, France",
+            "Bibliothèque municipale (Lille)",
+            "Bibliothèque municipale de Lille",
+            "Lille (France). Bibliothèque municipale",
+            "Bibliothèque municipale Lille (F-Lm)",
+            "Bibliothèque Municipale"
+        ],
+        "ISNI": "0000000121499662",
+        "space": "lille",
+        "cityGEO": {
+            "id": 2998324,
+            "name": "Lille",
+            "admin1": "Hauts-de-France",
+            "point": "POINT(3.05858 50.63297)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "126219118": {
+        "name": "Archives départementales de la Gironde",
+        "alternativeNames": [
+            "Archives départementales de la Gironde (Bordeaux)",
+            "Archives départementales (Gironde)",
+            "Archives de la Gironde",
+            "archives départementales de la Gironde service d'archives départementales",
+            "Gironde. Archives départementales",
+            "Archives départementales de la Gironde Bordeaux (F-BOa)"
+        ],
+        "ISNI": "0000000121082832",
+        "space": "bordeaux",
+        "cityGEO": {
+            "id": 3031582,
+            "name": "Bordeaux",
+            "admin1": "Nouvelle-Aquitaine",
+            "point": "POINT(-0.5805 44.84044)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "155781074": {
+        "name": "Universitätsbibliothek Bonn",
+        "alternativeNames": [
+            "Universitäts- und Landesbibliothek Bonn"
+        ],
+        "ISNI": "0000000104145010",
+        "space": "bonn",
+        "cityGEO": {
+            "id": 2946447,
+            "name": "Bonn",
+            "admin1": "North Rhine-Westphalia",
+            "point": "POINT(7.09549 50.73438)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "154265638": {
+        "name": "Bibliothèque publique et universitaire",
+        "alternativeNames": [
+            "Bibliothèque publique et universitaire Neuchâtel, Suisse",
+            "Bibliothèque publique de Neuchâtel",
+            "Bibliothèque publique et universitaire de Neuchâtel",
+            "Bibliothèque publique et universitaire de Neuchâtel (Neuchâtel) Neuchâtel (CH-N)",
+            "Bibliothèque publique et universitaire (Neuchâtel, Neuchâtel, Suisse)"
+        ],
+        "ISNI": "0000000406409050",
+        "space": "neuenburg schweiz",
+        "cityGEO": {
+            "id": 2659496,
+            "name": "Neuchâtel",
+            "admin1": null,
+            "point": "POINT(6.931 46.99179)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "124448580": {
+        "name": "Biblioteca pública provincial",
+        "alternativeNames": ["Biblioteca pública provincial Lugo, Espagne"],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3117814,
+            "name": "Lugo",
+            "admin1": "Galicia",
+            "point": "POINT(-7.55602 43.00992)",
+            "country": "Spain"     
+        },
+        "geo": null
+    },
+    "125874503": {
+        "name": "Bibliothèque-médiathèque",
+        "alternativeNames": [
+            "Bibliothèque municipale (Metz)",
+            "Bibliothèque municipale de Metz",
+            "Médiathèque Verlaine Metz (F-ME)",
+            "Bibliothèque-médiathèque",
+            "Bibliothèque-médiathèque (Metz, Moselle)"
+        ],
+        "ISNI": "0000000121523546",
+        "space": null,
+        "cityGEO": {
+            "id": 2994160,
+            "name": "Metz",
+            "admin1": "Grand Est",
+            "point": "POINT(6.17269 49.11911)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "143595522": {
+        "name": "Universitätsbibliothek Freiburg im Breisgau",
+        "alternativeNames": [
+            "Universität Freiburg im Breisgau. Bibliothek",
+            "Universitätsbibliothek Freiburg",
+            "Albert-Ludwigs-Universität Fribourg-en-Brisgau, Allemagne, Bibliothek",
+            "Universitätsbibliothek (Freiburg im Breisgau, Allemagne)",
+            "Universitätsbibliothek Freiburg im Breisgau (D-FRu)",
+            "Universitätsbibliothek (Fryburg Bryzgowijski).",
+            "Universitätsbibliothek Freiburg, Breisgau, Deutschland",
+            "Universitätsbibliothek"
+        ],
+        "ISNI": "0000000123314799",
+        "space": "freiburg im breisgau",
+        "cityGEO": {
+            "id": 2925177,
+            "name": "Freiburg im Breisgau",
+            "admin1": "Freiburg Region",
+            "point": "POINT(7.85222 47.9959)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "146865135": {
+        "name": "Beinecke rare book and manuscript library",
+        "alternativeNames": [
+            "Yale University. Beinecke Rare Book and Manuscript Library (New Haven)",
+            "Beinecke Rare Book and Manuscript Library (New Haven, Conn.) New Haven, Conn.",
+            "Beinecke rare book and manuscript library New Haven, Conn.",
+            "Beinecke Rare Book & Manuscript Library",
+            "Yale University. Library. Beinecke Rare Book and Manuscript Library"
+        ],
+        "ISNI": "0000000121797790",
+        "space": "new haven conn",
+        "cityGEO": {
+            "id": 4839366,
+            "name": "New Haven",
+            "admin1": "Connecticut",
+            "point": "POINT(-72.92816 41.30815)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "102145970121932251120": {
+        "name": "Koninklijke Bibliotheek",
+        "alternativeNames": [
+            "Koninklijke Bibliotheek (Haga).",
+            "Koninklijke Bibliotheek (Nīderlande)",
+            "Koninklijke Bibliotheek (Nederland)",
+            "Koninklijke Bibliotheek (Países Baixos)",
+            "Koninklijke bibliotheek ('s-Gravenhage)",
+            "Paises Baixos., Koninklijke Bibliotheek",
+            "Koninklijke Bibliotheek",
+            "Koninklijke Bibliotheek (Nizozemsko)",
+            "Koninklijke Bibliotheek (Holanda)",
+            "Koninklijke Bibliotheek (Països Baixos)",
+            "Koninklijke bibliotheek Pays-Bas",
+            "Koninklijke Bibliotheek Den Haag"
+        ],
+        "ISNI": "0000000123699000",
+        "space": "den haag",
+        "cityGEO": {
+            "id": 2747373,
+            "name": "The Hague",
+            "admin1": "South Holland",
+            "point": "POINT(4.29861 52.07667)",
+            "country": "The Netherlands"
+        },
+        "geo": "The Netherlands"
+    },
+    "157880358": {
+        "name": "Bürgerbibliothek Bern",
+        "alternativeNames": [
+            "Burgerbibliothek (Berno).",
+            "Bibliothèque de la Bourgeoisie Berne",
+            "Bibliothèque de la Bourgeoisie de Berne",
+            "Burgerbibliothek Bern (CH-BEb)"
+        ],
+        "ISNI": "0000000120977853",
+        "space": "bern",
+        "cityGEO": {
+            "id": 2661552,
+            "name": "Bern",
+            "admin1": "Bern",
+            "point": "POINT(7.44744 46.94809)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "150882171": {
+        "name": "Bibliothèque Mazarine",
+        "alternativeNames": [
+            "Bibliothèque Mazarine (Paris)",
+            "Bibliothèque Mazarine (Paris) (1643-....)",
+            "Bibliothèque Mazarine (Paryż).",
+            "Bibliothèque Mazarine Paris (F-Pm)",
+            "Paris., Bibliothéque Mazarine"
+        ],
+        "ISNI": "0000000122964466",
+        "space": "paris",
+        "cityGEO": {
+            "id": 2988507,
+            "name": "Paris",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.3488 48.85341)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "151351604": {
+        "name": "Archivio di Stato",
+        "alternativeNames": [
+            "Italie. Archivio di Stato (Parme)",
+            "Archivio di Stato di Parma (Italy)",
+            "Archivio di Stato di Parma",
+            "Archivio di Stato Parma (I-PAas)"
+        ],
+        "ISNI": "0000000121854425",
+        "space": "parma",
+        "cityGEO": {
+            "id": 3171457,
+            "name": "Parma",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(10.32618 44.79935)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "134837061": {
+        "name": "Yale university. Library",
+        "alternativeNames": [
+            "Yale University Library (New Haven, Connecticut)",
+            "Yale university library New Haven, Conn."
+        ],
+        "ISNI": "0000000122898075",
+        "space": "new haven conn",
+        "cityGEO": {
+            "id": 4839366,
+            "name": "New Haven",
+            "admin1": "Connecticut",
+            "point": "POINT(-72.92816 41.30815)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "140283992": {
+        "name": "Médiathèque Elisabeth et Roger Vailland Bourg-en-Bresse",
+        "alternativeNames": [
+            "Bibliothèque municipale (Bourg-en-Bresse)",
+            "Bibliothèque municipale Bourg-en-Bresse (F-BG)"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3031009,
+            "name": "Bourg-en-Bresse",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(5.2258 46.20574)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "143657677": {
+        "name": "University of Chicago",
+        "alternativeNames": [
+            "University of Chicago private university in Chicago, Illinois",
+            "Universidad de Chicago"
+        ],
+        "ISNI": null,
+        "space": "chicago ill",
+        "cityGEO": {
+            "id": 4887398,
+            "name": "Chicago",
+            "admin1": "Illinois",
+            "point": "POINT(-87.65005 41.85003)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "168603372": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèque municipale Marseille (F-Mm)",
+            "Bibliothèque Municipale Saint-Charles (Marseille)",
+            "Bibliothèque municipale",
+            "Bibliothèque municipale de Marseille"
+        ],
+        "ISNI": "0000000122046745",
+        "space": null,
+        "cityGEO": {
+            "id": 2995469,
+            "name": "Marseille",
+            "admin1": "Provence-Alpes-Côte d'Azur",
+            "point": "POINT(5.38107 43.29695)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "155372052": {
+        "name": "Newberry Library",
+        "alternativeNames": [
+            "Newberry Library (Chicago, Estados Unidos)",
+            "Newberry library Chicago, Ill.",
+            "The Newberry Library Chicago, IL (US-Cn)"
+        ],
+        "ISNI": "0000000121898997",
+        "space": "chicago ill",
+        "cityGEO": {
+            "id": 4887398,
+            "name": "Chicago",
+            "admin1": "Illinois",
+            "point": "POINT(-87.65005 41.85003)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "150676214": {
+        "name": "Bibliothèque de Genève",
+        "alternativeNames": [
+            "Bibliothèque publique et universitaire (Genewa)",
+            "Bibliothèque publique et universitaire de Genève",
+            "Bibliothèque de Genève Genève (CH-Gpu)",
+            "Bibliothèque de Genève (2006)"
+        ],
+        "ISNI": "0000000121844366",
+        "space": "genf",
+        "cityGEO": {
+            "id": 2660646,
+            "name": "Geneva",
+            "admin1": "Geneva",
+            "point": "POINT(6.14569 46.20222)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "135553188": {
+        "name": "Bibliothéque Nationale et Universitaire de Strasbourg",
+        "alternativeNames": [
+            "Bibliothèque nationale et universitaire (Strasburg)",
+            "Bibliothèque nationale et universitaire Strasbourg (F-Sn)",
+            "Bibliothèque nationale et universitaire (Strasbourg)",
+            "bibliothèque nationale et universitaire"
+        ],
+        "ISNI": "0000000121631491",
+        "space": "strassburg",
+        "cityGEO": {
+            "id": 2973783,
+            "name": "Strasbourg",
+            "admin1": "Grand Est",
+            "point": "POINT(7.74553 48.58392)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "149783419": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Médiathèque Toussaint (Angers)",
+            "Médiathèque Toussaint Angers (F-AN)",
+            "Bibliothèque municipale d'Angers"
+        ],
+        "ISNI": "000000012182973X",
+        "space": null,
+        "cityGEO": {
+            "id": 3037656,
+            "name": "Angers",
+            "admin1": "Pays de la Loire",
+            "point": "POINT(-0.55202 47.47156)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "128996068": {
+        "name": "Bibliothèque cantonale et universitaire",
+        "alternativeNames": [
+            "Bibliothéque cantonale et universitaire",
+            "Bibliothèque cantonale et universitaire (Fribourg) Fribourg (CH-Fcu)",
+            "Bibliothèque cantonale et universitaire (Fribourg, Suisse)",
+            "Bibliothèque cantonale et universitaire de Fribourg",
+            "Bibliothèque cantonale et universitaire (Fribourg, Fribourg, Suisse)",
+            "Bibliothèque cantonale et universitaire (Vaud, Suisse)",
+            "Bibliothèque cantonale et universitaire (Fribourg, Švýcarsko)",
+            "Bibliothèque cantonale et universitaire (Fribourg, Switzerland)",
+            "Kantons- und Universitätsbibliothek Freiburg"
+        ],
+        "ISNI": "0000000122894189",
+        "space": "freiburg im uechtland",
+        "cityGEO": {
+            "id": 2660718,
+            "name": "Fribourg",
+            "admin1": null,
+            "point": "POINT(7.15128 46.80237)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "138379450": {
+        "name": "Wojewódzka i Miejska Biblioteka Publiczna im. Josepha Conrada-Korzeniowskiego",
+        "alternativeNames": [
+            "Wojewódzka i Miejska Biblioteka Publiczna (Gdańsk).",
+            "Wojewódzka i Miejska Biblioteka Publiczna w Gdańsku"
+        ],
+        "ISNI": "0000000122347572",
+        "space": null,
+        "cityGEO": {
+            "id": 3099434,
+            "name": "Gdansk",
+            "admin1": "Pomerania",
+            "point": "POINT(18.64912 54.35227)",
+            "country": "Poland"
+        },
+        "geo": null
+    },
+    "126072696": {
+        "name": "Archives départementales de Vaucluse",
+        "alternativeNames": [
+            "archives départementales de Vaucluse archives du département du Vaucluse",
+            "Archives départementales de Vaucluse",
+            "Vaucluse. Archives départementales",
+            "Archives Départementales de Vaucluse (Avignon)",
+            "Archives départementales de Vaucluse Avignon (F-Aa)"
+        ],
+        "ISNI": "0000000121078577",
+        "space": null,
+        "cityGEO": {
+            "id": 3035681,
+            "name": "Avignon",
+            "admin1": "Provence-Alpes-Côte d'Azur",
+            "point": "POINT(4.80892 43.94834)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "146164457": {
+        "name": "Bibliothèque municipale de Grenoble",
+        "alternativeNames": [
+            "Bibliothèque municipale (Grenoble).",
+            "Bibliothèque municipale Grenoble (F-G)",
+            "Bibliothèque municipale Grenoble, France",
+            "Bibliothèque Municipale"
+        ],
+        "ISNI": "000000010944284X",
+        "space": null,
+        "cityGEO": {
+            "id": 3014728,
+            "name": "Grenoble",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(5.71479 45.17869)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "123371116": {
+        "name": "Médiathèque Louis Aragon",
+        "alternativeNames": [
+            "Médiathèque Louis-Aragon Le Mans (F-LM)",
+            "Médiathèque Louis Aragon (Le Mans, Sarthe)",
+            "Médiathèque Louis Aragon (Le Mans, France)",
+            "médiathèque Louis-Aragon Le Mans"
+        ],
+        "ISNI": null,
+        "space": "le mans",
+        "cityGEO": {
+            "id": 3003603,
+            "name": "Le Mans",
+            "admin1": "Pays de la Loire",
+            "point": "POINT(0.20251 48.0021)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "133132602": {
+        "name": "Universitaire Bibliotheken Leiden",
+        "alternativeNames": [
+            "Rijksuniversiteit te Leiden., Bibliotheek",
+            "Leiden University Library",
+            "Bibliotheek der Rijksuniversiteit Leiden",
+            "Universiteitsbibliotheek (Lejda).",
+            "Universiteitsbibliotheek (Leyde, Pays-Bas)",
+            "Rijksuniversiteit Leiden Bibliotheek"
+        ],
+        "ISNI": "0000000122932800",
+        "space": "leiden",
+        "cityGEO": {
+            "id": 2751773,
+            "name": "Leiden",
+            "admin1": "South Holland",
+            "point": "POINT(4.49306 52.15833)",
+            "country": "The Netherlands"
+        },
+        "geo": "The Netherlands"
+    },
+    "138814138": {
+        "name": "Universitätsbibliothek Salzburg",
+        "alternativeNames": [
+            "Universitätsbibliothek Salzbourg, Autriche",
+            "Universitätsbibliothek Salzburg (A-Su)",
+            "Universitätsbibliothek Salzburg, Universität"
+        ],
+        "ISNI": "0000000123549184",
+        "space": "salzburg",
+        "cityGEO": {
+            "id": 2766824,
+            "name": "Salzburg",
+            "admin1": "Salzburg",
+            "point": "POINT(13.04399 47.79941)",
+            "country": "Austria"
+        },
+        "geo": "Austria"
+    },
+    "253625058": {
+        "name": "Archivio di Stato di Vicenza",
+        "alternativeNames": [
+            "Archivio di Stato di Vicenza archives in Italy",
+            "Archivio di Stato Vicenza (I-VIas)"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3164419,
+            "name": "Vicenza",
+            "admin1": "Veneto",
+            "point": "POINT(11.5475 45.54672)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "157132944": {
+        "name": "Doubs. Archives départementales",
+        "alternativeNames": [
+            "Archives départementales du Doubs (Besançon)",
+            "archives départementales du Doubs service d'archives départementales",
+            "Archives du Doubs",
+            "Archives départementales du Doubs"
+        ],
+        "ISNI": "0000000121598951",
+        "space": "besancon",
+        "cityGEO": {
+            "id": 3033123,
+            "name": "Besançon",
+            "admin1": "Bourgogne-Franche-Comté",
+            "point": "POINT(6.01815 47.24878)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "147341799": {
+        "name": "Biblioteca ambrosiana",
+        "alternativeNames": [
+            "Biblioteca Ambrosiana (Milano)",
+            "Biblioteka Ambrozjańska",
+            "مكتبة الامبروزيانا، ميلانو",
+            "Biblioteca Ambrosiana Milan, Italie",
+            "Biblioteca Ambrosiana Milano (I-Ma)"
+        ],
+        "ISNI": "0000000122947471",
+        "space": "mailand",
+        "cityGEO": {
+            "id": 3173435,
+            "name": "Milan",
+            "admin1": "Lombardy",
+            "point": "POINT(9.18951 45.46427)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "129963670": {
+        "name": "Biblioteca civica queriniana",
+        "alternativeNames": [
+            "Biblioteca Queriniana Brescia (I-BRq)",
+            "Civica biblioteca queriniana di Brescia (Itálie)",
+            "Civica biblioteca queriniana di Brescia (Italy)",
+            "Biblioteca civica queriniana di Brescia",
+            "Biblioteca civica Queriniana (Brescia, Italy)",
+            "Civica biblioteca queriniana di Brescia (Itàlia)",
+            "Biblioteca Quer.",
+            "Biblioteca civica queriniana (Brescia)",
+            "Biblioteca civica queriniana Brescia, Italie"
+        ],
+        "ISNI": "0000000121567944",
+        "space": "brescia",
+        "cityGEO": {
+            "id": 3181554,
+            "name": "Brescia",
+            "admin1": "Lombardy",
+            "point": "POINT(10.21472 45.53558)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "151846417": {
+        "name": "Archives départementales de la Haute-Saône",
+        "alternativeNames": [
+            "Haute-Saône. Archives départementales",
+            "archives départementales de la Haute-Saône archives du département de la Haute-Saône"
+        ],
+        "ISNI": "0000000121859277",
+        "space": "vesoul",
+        "cityGEO": {
+            "id": 2969562,
+            "name": "Vesoul",
+            "admin1": "Bourgogne-Franche-Comté",
+            "point": "POINT(6.14251 47.62604)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "137737086": {
+        "name": "University of St Andrews Library",
+        "alternativeNames": [
+            "University of Saint Andrews. Library"
+        ],
+        "ISNI": "0000000099390766",
+        "space": "saint andrews",
+        "cityGEO": {
+            "id":  2638864,
+            "name": "Saint Andrews",
+            "admin1": "Scotland",
+            "point": "POINT(-2.79902 56.33871)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "134024865": {
+        "name": "Archives de l'Ancien Évêché de Bâle",
+        "alternativeNames": [
+            "Fondation des Archives de l'ancien Evêché de Bâle (Porrentruy)",
+            "Catholic Church. Diocese of Basel (Switzerland). Archives",
+            "Catholic Church Archives",
+            "fondation des archives de l'ancien Évêché de Bâle"
+        ],
+        "ISNI": "0000000091570332",
+        "space": "porrentruy",
+        "cityGEO": {
+            "id": 2659171,
+            "name": "Porrentruy",
+            "admin1": "Jura",
+            "point": "POINT(7.07573 47.41728)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "148314108": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Tours., Bibliothèque Municipale",
+            "bibliothèque municipale de Tours",
+            "Bibliothèque municipale Tours (F-TOm)"
+        ],
+        "ISNI": "0000000121540856",
+        "space": null,
+        "cityGEO": {
+            "id": 2972191,
+            "name": "Tours",
+            "admin1": "Centre-Val de Loire",
+            "point": "POINT(0.70398 47.39484)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "139495279": {
+        "name": "Niedersächsische Staats-und Universitätsbibliothek Göttingen",
+        "alternativeNames": [
+            "Niedersächsische Staats- und Universitätsbibliothek Göttingen (D-Gs)"
+        ],
+        "ISNI": "0000000121695516",
+        "space": "gottingen",
+        "cityGEO": {
+            "id": 2918632,
+            "name": "Göttingen",
+            "admin1": "Lower Saxony",
+            "point": "POINT(9.93228 51.53443)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "312795145": {
+        "name": "John Rylands Library",
+        "alternativeNames": [
+            "John Rylands library Manchester, GB",
+            "Llyfrgell John Rylands",
+            "John Rylands University Library Manchester (GB-Mr)",
+            "John Rylands Library (Manchester)",
+            "John Rylands library (Manchester, GB) (1900-1972)"
+        ],
+        "ISNI": "0000000119411238",
+        "space": null,
+        "cityGEO": {
+            "id":  2643123,
+            "name": "Manchester",
+            "admin1": "England",
+            "point": "POINT(-2.23743 53.48095)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "121919918": {
+        "name": "Universiteitsbibliotheek Amsterdam",
+        "alternativeNames": [
+            "Bibliotheek der Universiteit van Amsterdam",
+            "Universiteit van Amsterdam. Bibliotheek",
+            "Universiteitsbibliotheek van Amsterdam",
+            "Universiteitsbibliotheek Amsterdam (NL-Au)",
+            "Amsterdam University Library",
+            "Universiteitsbibliotheek"
+        ],
+        "ISNI": "0000000121496234",
+        "space": "amsterdam",
+        "cityGEO": {
+            "id": 2759794,
+            "name": "Amsterdam",
+            "admin1": "North Holland",
+            "point": "POINT(4.88969 52.37403)",
+            "country": "The Netherlands"
+        },
+        "geo": "The Netherlands"
+    },
+    "152441516": {
+        "name": "St. John's College Oxford",
+        "alternativeNames": [
+            "Coleg Sant Ioan",
+            "St. John's College (University of Oxford)",
+            "St John's College",
+            "St John's College Library Oxford (GB-Ojc)"
+        ],
+        "ISNI": "0000000122966373",
+        "space": null,
+        "cityGEO": {
+            "id": 2640729,
+            "name": "Oxford",
+            "admin1": "England",
+            "point": "POINT(-1.25596 51.75222)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "157207056": {
+        "name": "Staatsbibliothek Preußischer Kulturbesitz",
+        "alternativeNames": [
+            "Staatsbibliothek zu Berlin.",
+            "Staatsbibliothek Preussischer Kulturbesitz (Berlin)",
+            "Staatsbibliothek Berlin"
+        ],
+        "ISNI": "0000000123699481",
+        "space": "berlin west",
+        "cityGEO": {
+            "id": 2950159,
+            "name": "Berlin",
+            "admin1": null,
+            "point": "POINT(13.41053 52.52437)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "160568218": {
+        "name": "Jewish national and university library",
+        "alternativeNames": [
+            "הספרייה הלאומית‏",
+            "دار الكتب الوطنية والجامعية",
+            "دار الكتب الوطنية والجامعية (القدس)",
+            "National library of Israel",
+            "Sifriyah ha-le'umit (Israele)",
+            "Jewish National and University Library",
+            "Biblioteka Narodowa Izraela",
+            "Бет Г'а-Сефарим Г'а-Леумми Вег'а-Университаи",
+            "Bet ha-sefarim ha-leummí ve-ha-universitaí bi-Yeruixalàyim",
+            "בית הספרים הלאומי והאוניברסיטאי",
+            "Bet ha-sefarim ha-leʾumi ṿe-ha-universiṭaʾi ha-ʿivri",
+            "Bet ha-sefarim ha-leʾumi ṿeha-universiṭaʾi bi-Yerushalayim",
+            "National Library of Israel (Jérusalem)"
+        ],
+        "ISNI": "0000000121551336",
+        "space": "jerusalem",
+        "cityGEO": {
+            "id": 281184,
+            "name": "Jerusalem",
+            "admin1": null,
+            "point": "POINT(35.21633 31.76904)",
+            "country": "Israel"
+        },
+        "geo": "Israel"
+    },
+    "135584585": {
+        "name": "Peterhouse Library",
+        "alternativeNames": [
+            "Peterhouse Library Cambridge (GB-Cp)",
+            "Peterhouse Library (University of Cambridge)",
+            "Peterhouse (Cambridge). Library."
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2653941,
+            "name": "Cambridge",
+            "admin1": "England",
+            "point": "POINT(0.11667 52.2)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "149611494": {
+        "name": "Niedersächsische Landesbibliothek",
+        "alternativeNames": [
+            "Niedersächsische Landesbibliothek Hannover, Deutschland",
+            "Niedersächsische Landesbibliothek (Hanower).",
+            "Niedersächsische Landesbibliothek (Hannover)"
+        ],
+        "ISNI": "0000000121825157",
+        "space": "hannover",
+        "cityGEO": {
+            "id": 2910831,
+            "name": "Hanover",
+            "admin1": "Lower Saxony",
+            "point": "POINT(9.73322 52.37052)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "135611890": {
+        "name": "Bibliothèque Méjanes",
+        "alternativeNames": [
+            "Bibliothèque Méjanes (Aix-en-Provence)",
+            "Bibliothèque Municipale Méjanes Aix-en-Provence",
+            "Bibliothèque Méjanes Aix-en-Provence (F-AIXm)",
+            "Bibliothèque Méjanes Aix-en-Provence, Bouches-du-Rhône"
+        ],
+        "ISNI": "0000000122904076",
+        "space": null,
+        "cityGEO": {
+            "id": 3038354,
+            "name": "Aix-en-Provence",
+            "admin1": "Provence-Alpes-Côte d'Azur",
+            "point": "POINT(5.44973 43.5283)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "129907352": {
+        "name": "University of California, Berkeley. Library",
+        "alternativeNames": [
+            "University of California, Berkeley Libraries maison d'édition",
+            "Library of the University of California (Berkeley)"
+        ],
+        "ISNI": "0000000121567258",
+        "space": "berkeley calif",
+        "cityGEO": {
+            "id": 5327684,
+            "name": "Berkeley",
+            "admin1": "California",
+            "point": "POINT(-122.27275 37.87159)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "157574888": {
+        "name": "National Archives",
+        "alternativeNames": [
+            "National Archives London",
+            "National Archives (Großbritannien)",
+            "National Archives (Gran Bretanya)",
+            "National Archives (Wielka Brytania)",
+            "National Archives (Lielbritānija)",
+            "National archives GB",
+            "National Archives (Londyn).",
+            "National Archives (Velká Británie)",
+            "Yr Archifau Cenedlaethol"
+        ],
+        "ISNI": "0000000121125804",
+        "space": "london",
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "136552639": {
+        "name": "University of Pennsylvania. Library",
+        "alternativeNames": [
+            "Van Pelt Library",
+            "Van Pelt library Philadelphie, Pa.",
+            "University of Pennsylvania Libraries, Van Pelt-Dietrich Library Center - Kislak Center Philadelphia, PA (US-PHukc)"
+        ],
+        "ISNI": "0000000109428327",
+        "space": "philadelphia pa",
+        "cityGEO": {
+            "id": 4560349,
+            "name": "Philadelphia",
+            "admin1": "Pennsylvania",
+            "point": "POINT(-75.16362 39.95238)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "128918374": {
+        "name": "Walters art museum Baltimore, Md",
+        "alternativeNames": [
+            "Walters Art Museum (Baltimore, Maryland)",
+            "Walters Art Museum.",
+            "Walters Art Museum (Baltimore)"
+        ],
+        "ISNI": "000000040373611X",
+        "space": null,
+        "cityGEO": {
+            "id": 4347778,
+            "name": "Baltimore",
+            "admin1": "Maryland",
+            "point": "POINT(-76.61219 39.29038)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "146140663": {
+        "name": "Universitätsbibliothek Basel",
+        "alternativeNames": [
+            "Universitätsbibliothek Bâle, Suisse",
+            "Bibliothèque universitaire de Bâle",
+            "Öffentliche Bibliothek der Universität Basel"
+        ],
+        "ISNI": "0000000121861940",
+        "space": "basel",
+        "cityGEO": {
+            "id": 2661604,
+            "name": "Basel",
+            "admin1": "Basel-Stadt",
+            "point": "POINT(7.57327 47.55839)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "127384386": {
+        "name": "Archivio della Fabbriceria di San Petronio",
+        "alternativeNames": [
+            "Archivio musicale di San Petronio (Bologna)"
+        ],
+        "ISNI": null,
+        "space": "bologna",
+        "cityGEO": {
+            "id": 3181928,
+            "name": "Bologna",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(11.33875 44.49381)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "139269948": {
+        "name": "National library of Wales",
+        "alternativeNames": [
+            "Llyfrgell Genedlaethol Cymru Aberystwyth (GB-AB)",
+            "Leabharlann Nàiseanta na Cuimrigh",
+            "Llyfrgell Genedlaethol Cymru",
+            "LLyfrgell Genedlaethol Cymru (Aberystwyth)",
+            "National Library of Wales (Aberystwyth)"
+        ],
+        "ISNI": "0000000406057171",
+        "space": "aberystwyth",
+        "cityGEO": {
+            "id": 2657782,
+            "name": "Aberystwyth",
+            "admin1": "Wales",
+            "point": "POINT(-4.08292 52.41548)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "144844098": {
+        "name": "Archives générales du Royaume",
+        "alternativeNames": [
+            "Algemeen Rijksarchief te Brussel",
+            "Archives générales du Royaume (Belgique)",
+            "Archives générales du Royaume",
+            "Archives de l'État en Belgique",
+            "Bruxelles., Archives Generales du Royaume",
+            "Archives générales du Royaume (Bélgica)",
+            "Archives générales du Royaume (Belgie)"
+        ],
+        "ISNI": "0000000121762651",
+        "space": null,
+        "cityGEO": {
+            "id": 2800866,
+            "name": "Brussels",
+            "admin1": null,
+            "point": "POINT(4.34878 50.85045)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "136512731": {
+        "name": "The Getty Foundation",
+        "alternativeNames": [
+            "Getty Foundation nonprofit organization in Los Angeles, United States"
+        ],
+        "ISNI": null,
+        "space": "los angeles calif",
+        "cityGEO": {
+            "id": 5368361,
+            "name": "Los Angeles",
+            "admin1": "California",
+            "point": "POINT(-118.24368 34.05223)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "132075128": {
+        "name": "National Library of Scotland",
+        "alternativeNames": [
+            "National library of Scotland (Édimbourg)",
+            "Leabharlann Nàiseanta na h-Alba",
+            "Escócia., National Library",
+            "National Library of Scotland (Edinburgh)"
+        ],
+        "ISNI": "000000040606761X",
+        "space": "edinburgh",
+        "cityGEO": {
+            "id": 2650225,
+            "name": "Edinburgh",
+            "admin1": "Scotland",
+            "point": "POINT(-3.19648 55.95206)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "122573964": {
+        "name": "Universitätsbibliothek Rostock",
+        "alternativeNames": [
+            "Universitätsbibliothek Rostock, Allemagne",
+            "Universitätsbibliothek (Rostock) Rostock",
+            "Universitätsbibliothek Rostock, Deutschland"
+        ],
+        "ISNI": "0000000122592551",
+        "space": "rostock",
+        "cityGEO": {
+            "id": 2844588,
+            "name": "Rostock",
+            "admin1": "Mecklenburg-Vorpommern",
+            "point": "POINT(12.14049 54.0887)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "312739455": {
+        "name": "Bibliothèque royale de Belgique",
+        "alternativeNames": [
+            "Bélgica., Koninklijke Bibliotheek van België",
+            "Bibliothèque royale de Belgique (KBR) - Koninklijke Bibliotheek van België (KBR) Bruxelles; Brussel (B-Br)",
+            "Biblioteka Królewska Belgii",
+            "Bibliothèque royale Albert Ier",
+            "Bibliothèque royale de Belgique (Bruxelles)",
+            "Bibliothèque royale Albert Ier (Bruxelles, Belgique)",
+            "Royal Library of Belgium"
+        ],
+        "ISNI": "0000000122714686",
+        "space": "brussel",
+        "cityGEO": {
+            "id": 2800866,
+            "name": "Brussels",
+            "admin1": null,
+            "point": "POINT(4.34878 50.85045)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "145158687": {
+        "name": "Bibliotheca philosophica hermetica Amsterdam",
+        "alternativeNames": [
+            "Bibliotheca Philosophica Hermetica Amsterdam, Nederland",
+            "Библиотека герметической философии (Амстердам)",
+            "Bibliotheca Philosophica Hermetica (Amsterdama, Nīderlande)",
+            "Bibliotheca Philosophica Hermetica (Amsterdam, Netherlands)",
+            "Bibliotheca Philosophica Hermetica (library)",
+            "Bibliotheca Philosophica Hermetica",
+            "Bibliotheca Philosophica Hermetica (Amsterdam, Nizozemsko)"
+        ],
+        "ISNI": "0000000110911607",
+        "space": "amsterdam",
+        "cityGEO": {
+            "id": 2759794,
+            "name": "Amsterdam",
+            "admin1": "North Holland",
+            "point": "POINT(4.88969 52.37403)",
+            "country": "The Netherlands"
+        },
+        "geo": "The Netherlands"
+    },
+    "139091782": {
+        "name": "Bibliothèque interuniversitaire",
+        "alternativeNames": [
+            "Bibliothèque interuniversitaire (Toulouse) (....-1995)",
+            "Université de Toulouse. Bibliothèque."
+        ],
+        "ISNI": "0000000123088082",
+        "space": null,
+        "cityGEO": {
+            "id": 2972315,
+            "name": "Toulouse",
+            "admin1": "Occitanie",
+            "point": "POINT(1.44367 43.60426)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "137954560": {
+        "name": "Institut français de Florence",
+        "alternativeNames": [
+            "Institut français (Firenze)",
+            "institut français de Florence Institut français installé à Florence",
+            "Institut français (Florencja).",
+            "Institut français Florence, Italie"
+        ],
+        "ISNI": "0000000121672306",
+        "space": "florenz",
+        "cityGEO": {
+            "id": 3176959,
+            "name": "Florence",
+            "admin1": "Tuscany",
+            "point": "POINT(11.24626 43.77925)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "131319133": {
+        "name": "Archives départementales de la Dordogne",
+        "alternativeNames": [
+            "Archives Départementales de la Dordogne Périgueux",
+            "Archives départementales (Dordogne)",
+            "Dordogne. Archives départementales",
+            "Archives départementales de la Dordogne Périgueux (F-PEad)"
+        ],
+        "ISNI": "0000000121587064",
+        "space": "perigueux",
+        "cityGEO": {
+            "id": 2987967,
+            "name": "Périgueux",
+            "admin1": "Nouvelle-Aquitaine",
+            "point": "POINT(0.71439 45.18691)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "140221169": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèque municipale de Lyon.",
+            "Bibliothèque de la Ville de Lyon",
+            "Bibliothèque municipale de Lyon réseau de bibliothèques à Lyon",
+            "Bibliothèque municipale Lyon, France",
+            "Bibliothèque municipale Lyon (F-LYm)",
+            "Bibliothèque Municipale",
+            "Lyon., Bibliothéque Municipale"
+        ],
+        "ISNI": "0000000122919411",
+        "space": null,
+        "cityGEO": {
+            "id": 2996944,
+            "name": "Lyon",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(4.84671 45.74846)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "316396353": {
+        "name": "Königliche Museen zu Berlin",
+        "alternativeNames": [
+            "Staatliche Museen Berlin ; 1830-1949)",
+            "Staatliche Museen",
+            "Königliche Museen (Berlin)"
+        ],
+        "ISNI": "0000000110888654",
+        "space": "berlin",
+        "cityGEO": {
+            "id": 2950159,
+            "name": "Berlin",
+            "admin1": null,
+            "point": "POINT(13.41053 52.52437)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "44159032661801181655": {
+        "name": "Archivio Storico Comunale",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3178818,
+            "name": "Chieri",
+            "admin1": "Piedmont",
+            "point": "POINT(7.82133 45.01054)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "139140500": {
+        "name": "Archives départementales du Pas-de-Calais",
+        "alternativeNames": [
+            "Archives Départementales du Pas-de-Calais (Dainville)",
+            "Archives départementales du Pas-de-Calais Arras (F-ASad)",
+            "Archives départementales du Pas-de-Calais archives du département du Pas-de-Calais (62)",
+            "Archives départementales (Pas-de-Calais)",
+            "Archives départementales du Pas-de-Calais",
+            "Pas-de-Calais (France). Archives départementales"
+        ],
+        "ISNI": "0000000121691515",
+        "space": null,
+        "cityGEO": {
+            "id": 3021910,
+            "name": "Dainville-Bertheléville",
+            "admin1": "Grand Est",
+            "point": "POINT(5.51098 48.43996)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "129087628": {
+        "name": "St. Godehard zu Hildesheim",
+        "alternativeNames": [
+            "Sankt Godehard (Hildesheim)",
+            "St. Godehard zu Hildesheim (kostel : Germany)",
+            "Basilika St. Godehard",
+            "St. Godehard zu Hildesheim (Église : Allemagne)"
+        ],
+        "ISNI": null,
+        "space": "hildesheim",
+        "cityGEO": {
+            "id": 2904789,
+            "name": "Hildesheim",
+            "admin1": "Lower Saxony",
+            "point": "POINT(9.95112 52.15077)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "121763554": {
+        "name": "Princeton university. Library",
+        "alternativeNames": [
+            "Princeton University Library Princeton, NJ (US-PRu)",
+            "Princeton University Libraries"
+        ],
+        "ISNI": "0000000121495514",
+        "space": "princeton nj",
+        "cityGEO": {
+            "id": 5102922,
+            "name": "Princeton",
+            "admin1": "New Jersey",
+            "point": "POINT(-74.65905 40.34872)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "130190696": {
+        "name": "Biblioteca statale di Cremona",
+        "alternativeNames": [
+            "Cremona., Biblioteca Statale",
+            "Biblioteca Statale di Cremona (Italia)"
+        ],
+        "ISNI": "0000000123087573",
+        "space": "cremona",
+        "cityGEO": {
+            "id": 3177838,
+            "name": "Cremona",
+            "admin1": "Lombardy",
+            "point": "POINT(10.02129 45.13325)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "261059942": {
+        "name": "Trinity college Dublin",
+        "alternativeNames": [
+            "Trinity College (Dublin, Irlande)",
+            "Trinity College Library Dublin (IRL-Dtc)",
+            "University of Dublin, Trinity College",
+            "Trinity College (Dublin, Ireland).",
+            "Trinity College Dublin, Éire",
+            "University Dublin",
+            "Dublin., Trinity College",
+            "University of Dublin university located in Dublin, Ireland",
+            "Trinity College (Dublín, Irlanda)"
+        ],
+        "ISNI": "0000000419369705",
+        "space": "dublin",
+        "cityGEO": {
+            "id": 2964574,
+            "name": "Dublin",
+            "admin1": "Leinster",
+            "point": "POINT(-6.24889 53.33306)",
+            "country": "Ireland"
+        },
+        "geo": "Ireland"
+    },
+    "121814978": {
+        "name": "British library",
+        "alternativeNames": [
+            "הספרייה הבריטית",
+            "Breetish Leebrary",
+            "英国図書館",
+            "British Library London",
+            "Reino Unido., British Library",
+            "Biblioteka Brytyjska",
+            "المكتبة البريطانية"
+        ],
+        "ISNI": "0000000123081542",
+        "space": "london",
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "127643535": {
+        "name": "musée Paul Arbaud",
+        "alternativeNames": [
+            "Musée Arbaud",
+            "Musée Arbaud (Aix-en-Provence)",
+            "Musée Paul Arbaud Aix-en-Provence, Bouches-du-Rhône"
+        ],
+        "ISNI": "000000012154497X",
+        "space": null,
+        "cityGEO": {
+            "id": 3038354,
+            "name": "Aix-en-Provence",
+            "admin1": "Provence-Alpes-Côte d'Azur",
+            "point": "POINT(5.44973 43.5283)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "128342404": {
+        "name": "Cathedral Library Carlisle",
+        "alternativeNames": [
+            "Carlisle Cathedral. Library"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2653775,
+            "name": "Carlisle",
+            "admin1": "England",
+            "point": "POINT(-2.9382 54.8951)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "128538403": {
+        "name": "Biblioteca comunale Assise, Italie",
+        "alternativeNames": [
+            "Biblioteca comunale di Assisi",
+            "Kloster San Francesco Assisi Biblioteca",
+            "Sacro convento di S. Francesco (Assisi, Itálie). Biblioteca",
+            "Biblioteca del Sacro convento di San Francesco (Assisi)",
+            "Convento di San Francesco Assisi Biblioteca",
+            "Sacro convento di S. Francesco Biblioteca",
+            "Biblioteca del Convento dei frati minori"
+        ],
+        "ISNI": "0000000123224101",
+        "space": "assisi",
+        "cityGEO": {
+            "id": 3182722,
+            "name": "Assisi",
+            "admin1": "Umbria",
+            "point": "POINT(12.62109 43.06671)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "151962300": {
+        "name": "Library of Congress",
+        "alternativeNames": [
+            "Library of Congress (Estados Unidos)",
+            "Library of Congress (Washington, DC)",
+            "ספריית הקונגרס (וושינגטון)",
+            "مكتبة الكونجرس (واشنطن)",
+            "アメリカ合衆国議会図書館",
+            "Biblioteka Kongresu",
+            "Library of Congress (Washington, D. C.)",
+            "Library of Congress Etats-Unis",
+            "Estados Unidos., Library of Congress"
+        ],
+        "ISNI": null,
+        "space": "washington dc",
+        "cityGEO": {
+            "id": 4140963,
+            "name": "Washington",
+            "admin1": "Washington, D.C.",
+            "point": "POINT(-77.03637 38.89511)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "148337223": {
+        "name": "Universitätsbibliothek Innsbruck",
+        "alternativeNames": [
+            "Universität Innsbruck. Universitätsbibliothek",
+            "Bibliothek des Ferdinandeums",
+            "Universitätsbibliothek (Innsbruck, Autriche)",
+            "Universitäts- und Landesbibliothek Tirol",
+            "Universitätsbibliothek"
+        ],
+        "ISNI": "0000000123589004",
+        "space": "innsbruck",
+        "cityGEO": {
+            "id": 2775220,
+            "name": "Innsbruck",
+            "admin1": "Tyrol",
+            "point": "POINT(11.39454 47.26266)",
+            "country": "Austria"
+        },
+        "geo": "Austria"
+    },
+    "150196534": {
+        "name": "Arquivo nacional da Torre do Tombo Portugal",
+        "alternativeNames": [
+            "Arquivo Nacional da Torre do Tombo (Lissabon)",
+            "Arquivo Nacional da Torre do Tombo (Portugalsko)",
+            "Portugal., Arquivo Nacional da Torre do Tombo",
+            "Arquivo Nacional da Torre do Tombo (Lisboa)",
+            "Arquivo nacional da Torre do Tombo",
+            "Arquivo Nacional da Torre do Tombo Lisboa (P-Lant)"
+        ],
+        "ISNI": "0000000121839428",
+        "space": null,
+        "cityGEO": {
+            "id": 2267057,
+            "name": "Lisbon",
+            "admin1": null,
+            "point": "POINT(-9.13333 38.71667)",
+            "country": "Portugal"
+        },
+        "geo": null
+    },
+    "150191213": {
+        "name": "Grand Séminaire",
+        "alternativeNames": [
+            "Séminaire de Liège (Belgique)",
+            "Diocesan Seminary of Liège seminary in Liège",
+            "Grand Séminaire (Liège). Bibliothèque",
+            "Grand Séminaire Liège",
+            "Grand Séminaire Liège (B-Ls)",
+            "Grand séminaire Liège, Belgique",
+            "Séminaire de Liège",
+            "Grand Séminaire de Liège"
+        ],
+        "ISNI": "0000000121839313",
+        "space": "luttich",
+        "cityGEO": {
+            "id": 2792413,
+            "name": "Liège",
+            "admin1": "Wallonia",
+            "point": "POINT(5.56749 50.63373)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "158005777": {
+        "name": "Accademia delle scienze di Torino",
+        "alternativeNames": [
+            "Accademia delle Scienze, Biblioteca Torino (I-Tas)",
+            "Accademia delle scienze (Turin, Italie)",
+            "Accademia delle scienze"
+        ],
+        "ISNI": "0000000121133345",
+        "space": "turin",
+        "cityGEO": {
+            "id": 3165524,
+            "name": "Turin",
+            "admin1": "Piedmont",
+            "point": "POINT(7.68682 45.07049)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "27159032769901182486": {
+        "name": "Staffordshire Record Office Stafford",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2637142,
+            "name": "Stafford",
+            "admin1": "England",
+            "point": "POINT(-2.11636 52.80521)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "125387799": {
+        "name": "University of Oregon. Library",
+        "alternativeNames": [],
+        "ISNI": "0000000107209323",
+        "space": null,
+        "cityGEO": {
+            "id": 5725846,
+            "name": "Eugene",
+            "admin1": "Oregon",
+            "point": "POINT(-123.08675 44.05207)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "155530939": {
+        "name": "Houghton Library",
+        "alternativeNames": [
+            "Harvard University. Houghton Library.",
+            "Harvard College Library (Cambridge Mass). Houghton Library",
+            "Houghton Library (Cambridge, Massachusetts)",
+            "Houghton Library (Harvard)",
+            "Houghton library Cambridge, Mass."
+        ],
+        "ISNI": "0000000121904234",
+        "space": "cambridge mass",
+        "cityGEO": {
+            "id": 4931972,
+            "name": "Cambridge",
+            "admin1": "Massachusetts",
+            "point": "POINT(-71.10561 42.3751)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "131799465": {
+        "name": "Institut de France. Bibliothèque",
+        "alternativeNames": [
+            "Bibliothèque de l'Institut de France Paris (F-Pi)",
+            "Bibliothèque de l'Institut de France"
+        ],
+        "ISNI": "0000000121592437",
+        "space": "paris",
+        "cityGEO": {
+            "id": 2988507,
+            "name": "Paris",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.3488 48.85341)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "137156173": {
+        "name": "Bibliothèque nationale de France",
+        "alternativeNames": [
+            "França., Bibliothèque Nationale",
+            "Национальная библиотека. (Париж)",
+            "Bibliotheque nationale de France (Paris)",
+            "הספרייה הלאומית של צרפת",
+            "باريس. المكتبة الوطنية"
+        ],
+        "ISNI": "0000000123531945",
+        "space": "paris",
+        "cityGEO": {
+            "id": 2988507,
+            "name": "Paris",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.3488 48.85341)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "54159032779701182503": {
+        "name": "Château de Warfusée Saint-Georges-sur-Meuse",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2787425,
+            "name": "Saint-Georges-sur-Meuse",
+            "admin1": "Wallonia",
+            "point": "POINT(5.3574 50.60007)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "170025516": {
+        "name": "Bibliothèque Ulysse Capitaine",
+        "alternativeNames": [
+            "Bibliothèque Ulysse Capitaine de la Ville de Liège",
+            "Bibliothèque Ulysse Capitaine Liège, Belgique"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2792413,
+            "name": "Liège",
+            "admin1": "Wallonia",
+            "point": "POINT(5.56749 50.63373)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "107144647637243993338": {
+        "name": "Universiteit Antwerpen, Bibliotheek",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2803138,
+            "name": "Antwerp",
+            "admin1": "Flanders",
+            "point": "POINT(4.40026 51.22047)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "124209716": {
+        "name": "Université de Nancy. Bibliothèque",
+        "alternativeNames": [
+            "Université Nancy Bibliothèque"
+        ],
+        "ISNI": "0000000121070313",
+        "space": null,
+        "cityGEO": {
+            "id": 2990999,
+            "name": "Nancy",
+            "admin1": "Grand Est",
+            "point": "POINT(6.18496 48.68439)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "134658682": {
+        "name": "Archivio di stato di Mantova",
+        "alternativeNames": [
+            "Archivio di Stato di Mantova archivio di Stato italiano",
+            "Archivio di Stato Mantova (I-MAa)",
+            "Italie. Archivio di stato (Mantoue)",
+            "Archivio di Stato (Mantova)",
+            "Archivio di Stato (Mantua)"
+        ],
+        "ISNI": "0000000122893733",
+        "space": "mantua",
+        "cityGEO": {
+            "id": 3174051,
+            "name": "Mantova",
+            "admin1": "Lombardy",
+            "point": "POINT(10.79784 45.16031)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "172699374": {
+        "name": "Biblioteca angelica",
+        "alternativeNames": [
+            "Biblioteca Angelica (Roma, Itália)",
+            "Biblioteca angelica Rome, Italie",
+            "Biblioteca angelica (Rome, Italy)",
+            "Biblioteca angelica (Roma)",
+            "Biblioteca Angelica (Rome)",
+            "Roma., Biblioteca Angelica",
+            "Biblioteca angelica (Řím, Itálie)"
+        ],
+        "ISNI": "0000000122904447",
+        "space": "rom",
+        "cityGEO": {
+            "id": 3169070,
+            "name": "Rome",
+            "admin1": "Lazio",
+            "point": "POINT(12.51133 41.89193)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "133740490": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Rennes (France). Bibliothèque municipale",
+            "bibliothèques de Rennes",
+            "Rennes Bibliothèque municipale",
+            "Bibliothèque de Rennes Métropole Rennes (F-RE)",
+            "Bibliothèque municipale de Rennes",
+            "Bibliothèque municipale de Rennes (França)",
+            "Bibliothèque municipale Rennes, France"
+        ],
+        "ISNI": "0000000119399961",
+        "space": null,
+        "cityGEO": {
+            "id": 2983990,
+            "name": "Rennes",
+            "admin1": "Brittany",
+            "point": "POINT(-1.67429 48.11198)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "152093761": {
+        "name": "Puy-de-Dôme Archives départementales",
+        "alternativeNames": [
+            "Archives départementales du Puy-de-Dôme",
+            "Archives départementales (Puy-de-Dôme)",
+            "Archives Départementales du Puy-de-Dôme (Clermont-Ferrand)",
+            "archives départementales du Puy-de-Dôme archives du département du Puy-de-Dôme",
+            "Archives départementales du Puy-de-Dôme Clermont-Ferrand (F-CFad)"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3024635,
+            "name": "Clermont-Ferrand",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(3.08682 45.77969)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "125601096": {
+        "name": "Archivio di Stato",
+        "alternativeNames": [
+            "Archivio di Stato di Udine",
+            "Archivio di Stato di Udine archivio di Stato italiano",
+            "Archivio di Stato Udine (I-UDa)"
+        ],
+        "ISNI": "0000000106586549",
+        "space": "udine",
+        "cityGEO": {
+            "id": 3165072,
+            "name": "Udine",
+            "admin1": "Friuli Venezia Giulia",
+            "point": "POINT(13.23715 46.0693)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "136008125": {
+        "name": "Corpus Christi College Oxford",
+        "alternativeNames": [
+            "Corpus Christi College",
+            "Corpus Christi college Oxford, GB",
+            "Corpus Christi College (University of Oxford)",
+            "Corpus Christi College Library Oxford (GB-Occc)",
+            "Coleg Corpus Christi, Rhydychen",
+            "Corpus Christi College (Oxford). Library"
+        ],
+        "ISNI": "0000000106639073",
+        "space": null,
+        "cityGEO": {
+            "id": 2640729,
+            "name": "Oxford",
+            "admin1": "England",
+            "point": "POINT(-1.25596 51.75222)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "5284149296283180670004": {
+        "name": "Biblioteca comunale dell'Archiginnasio",
+        "alternativeNames": [
+            "Biblioteca comunale dell'Archiginnasio",
+            "Biblioteca comunale dell'Archiginnasio (Bologna)",
+            "Biblioteca comunale dell'Archiginnasio (Bolonya, Itàlia)",
+            "Biblioteca comunale dell'Archiginnasio (Bolonia)",
+            "Biblioteca comunale di Bologna",
+            "Biblioteca comunale dell'Archiginnasio (Bologna, Itálie)",
+            "Biblioteca comunale dell'Archiginnasio Bologna (I-Bca)",
+            "Biblioteca comunale dell'Archiginnasio Bologne, Italie"
+        ],
+        "ISNI": "0000000121081661",
+        "space": "bologna",
+        "cityGEO": {
+            "id": 3181928,
+            "name": "Bologna",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(11.33875 44.49381)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "312738705": {
+        "name": "Arxiu Comarcal de la Cerdanya",
+        "alternativeNames": [
+            "Archives régionales Cerdagne, Espagne",
+            "Arxiu Comarcal de la Cerdanya (ACCE) Puigcerdà (E-PG)"
+        ],
+        "ISNI": "0000000121969417",
+        "space": "puigcerda",
+        "cityGEO": {
+            "id": 3112680,
+            "name": "Puigcerdà",
+            "admin1": "Catalonia",
+            "point": "POINT(1.92819 42.4316)",
+            "country": "Spain"
+        },
+        "geo": "Spain"
+    },
+    "155740166": {
+        "name": "Durham Cathedral. Library",
+        "alternativeNames": [
+            "The Cathedral Library Durham (GB-DRc)",
+            "Cathedral (Durham) Library",
+            "Cathedral library (Durham, GB)",
+            "Durham Dean and Chapter Library"
+        ],
+        "ISNI": "0000000121909190",
+        "space": null,
+        "cityGEO": {
+            "id": 2650628,
+            "name": "Durham",
+            "admin1": "England",
+            "point": "POINT(-1.57566 54.77676)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "138525910": {
+        "name": "Kongelige Bibliotek",
+        "alternativeNames": [
+            "Det Kongelige Bibliotek (Danmark)",
+            "Bibliothèque royale (Copenhague)",
+            "Kongelige Bibliotek (Dinamarca)",
+            "Kongelige Bibliotek (Kopenhaga).",
+            "Dinamarca., Kongelige Bibliotek",
+            "Kongelige Bibliotek (Kobenhavn)",
+            "Det Kongelige bibliotek (København)",
+            "Kongelige Bibliotek (Dānija)",
+            "Kongelige Bibliotek",
+            "הספרייה המלכותית (דנמרק)",
+            "Kongelige Bibliotek (Kaupmannahöfn)",
+            "Det Kgl. Bibliotek",
+            "Kongelige bibliotek Danemark",
+            "Det ¤Kongelige Bibliotek",
+            "Det Kongelige Bibliotek på Slotsholmen - Den Sorte Diamant København (DK-Kk)",
+            "Kongelige Bibliotek (Dánsko)"
+        ],
+        "ISNI": "000000012308732X",
+        "space": null,
+        "cityGEO": {
+            "id": 2618425,
+            "name": "Copenhagen",
+            "admin1": null,
+            "point": "POINT(12.56553 55.67594)",
+            "country": "Denmark"
+        },
+        "geo": null
+    },
+    "132077121": {
+        "name": "Biblioteca Central",
+        "alternativeNames": [
+            "Biblioteca Central de la Diputación Provincial de Barcelona",
+            "Barcelona., Biblioteca Central de la Diputación Provincial",
+            "Barcelona (Provincia) Biblioteca Central",
+            "Biblioteca Central de Barcelona",
+            "Biblioteca Central de Barcelona (España)",
+            "Biblioteca Central de Cataluña"
+        ],
+        "ISNI": "0000000111957164",
+        "space": null,
+        "cityGEO": {
+            "id": 3128760,
+            "name": "Barcelona",
+            "admin1": "Catalonia",
+            "point": "POINT(2.15899 41.38879)",
+            "country": "Spain"
+        },
+        "geo": null
+    },
+    "154453062": {
+        "name": "Archives municipales de Metz",
+        "alternativeNames": [
+            "Archives Municipales (Metz)",
+            "archives municipales de Metz service d'archives municipales en France",
+            "Archives municipales Metz (F-MEam)"
+        ],
+        "ISNI": "0000000122978278",
+        "space": null,
+        "cityGEO": {
+            "id": 2994160,
+            "name": "Metz",
+            "admin1": "Grand Est",
+            "point": "POINT(6.17269 49.11911)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "195570567": {
+        "name": "Musée des beaux-arts",
+        "alternativeNames": [
+            "Musée des beaux-arts (Reims).",
+            "musée des Beaux-Arts de Reims",
+            "Musée des beaux-arts (Reims, Marne)"
+        ],
+        "ISNI": null,
+        "space": "reims",
+        "cityGEO": {
+            "id": 2984114,
+            "name": "Reims",
+            "admin1": "Grand Est",
+            "point": "POINT(4.02853 49.26526)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "131173916": {
+        "name": "Biblioteca nazionale braidense",
+        "alternativeNames": [
+            "Biblioteca Nazionale Braidense Milano (I-Mb)",
+            "Biblioteca nazionale braidense (Μιλάνο, Ιταλία)",
+            "Biblioteca nazionale braidense Milan, Italie",
+            "Biblioteca nazionale Braidense (Milano)"
+        ],
+        "ISNI": "0000000417562018",
+        "space": "mailand",
+        "cityGEO": {
+            "id": 3173435,
+            "name": "Milan",
+            "admin1": "Lombardy",
+            "point": "POINT(9.18951 45.46427)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "143013888": {
+        "name": "New York public library",
+        "alternativeNames": [
+            "ニューヨーク公共図書館"
+        ],
+        "ISNI": "0000000121736162",
+        "space": "new york ny",
+        "cityGEO": {
+            "id": 5128581,
+            "name": "New York",
+            "admin1": "New York",
+            "point": "POINT(-74.00597 40.71427)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "125059269": {
+        "name": "Herzog-August-Bibliothek",
+        "alternativeNames": [
+            "Herzog August Bibliothek (Wolfenbüttel, Allemagne)",
+            "Herzog August Bibliothek Wolfenbüttel, Deutschland",
+            "Herzog August Bibliothek (Þýskaland)",
+            "Herzog August Bibliothek (Wolfenbüttel, Nemecko)",
+            "Herzog August Bibliothek (Wolfenbuettel)",
+            "Herzog August Bibliothek (Alemania)",
+            "Herzog August Bibliothek Wolfenbüttel (D-W)",
+            "Herzog-August-Bibliothek (Wolfenbüttel)"
+        ],
+        "ISNI": "0000000121513727",
+        "space": "wolfenbuttel",
+        "cityGEO": {
+            "id": 2806914,
+            "name": "Wolfenbüttel",
+            "admin1": "Lower Saxony",
+            "point": "POINT(10.54095 52.16442)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "156688622": {
+        "name": "Bibliothèque municipale de Versailles",
+        "alternativeNames": [
+            "Bibliothèque municipale Versailles (F-V)",
+            "Bibliothèque municipale (Wersal).",
+            "Bibliothèque municipale (Versailles)",
+            "Bibliothèque Municipale"
+        ],
+        "ISNI": null,
+        "space": "versailles",
+        "cityGEO": {
+            "id": 2969679,
+            "name": "Versailles",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.13424 48.80359)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "127811314": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèque municipale",
+            "Bibliothèque municipale (Rouen, Francie)",
+            "Bibliothèques de Rouen",
+            "Bibliothèque municipale de Rouen"
+        ],
+        "ISNI": "0000000119452857",
+        "space": "rouen",
+        "cityGEO": {
+            "id": 2982652,
+            "name": "Rouen",
+            "admin1": "Normandy",
+            "point": "POINT(1.09932 49.44313)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "261516764": {
+        "name": "Médiathèque de la communauté urbaine d'Alençon",
+        "alternativeNames": [
+            "Bibliothèque municipale Alençon (F-AL)",
+            "Bibliothèque municipale d'Arras",
+            "Médiathèque (Alençon, Orne)"
+        ],
+        "ISNI": "0000000106758961",
+        "space": null,
+        "cityGEO": {
+            "id": 3038230,
+            "name": "Alençon",
+            "admin1": "Normandy",
+            "point": "POINT(0.09311 48.43476)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "125579984": {
+        "name": "Abbaye de Maredsous. Bibliothèque",
+        "alternativeNames": [
+            "Abbaye Saint-Benoît de Maredsous. Bibliothèque",
+            "Kloster Maredsous Bibliothek"
+        ],
+        "ISNI": "0000000086664828",
+        "space": "denee",
+        "cityGEO": {
+            "id": 2799636,
+            "name": "Denée",
+            "admin1": "Wallonia",
+            "point": "POINT(4.75202 50.31889)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "158923653": {
+        "name": "Staats- und Universitätsbibliothek Hamburg",
+        "alternativeNames": [
+            "Staats-und Universitats Bibliothek Hamburg",
+            "Staats- und Universitätsbibliothek (Hambourg, Allemagne)",
+            "Staats- und Universitätsbibliothek Hamburg, Deutschland",
+            "Staats- und Universitätsbibliothek"
+        ],
+        "ISNI": "0000000122994294",
+        "space": "hamburg",
+        "cityGEO": {
+            "id": 2911298,
+            "name": "Hamburg",
+            "admin1": null,
+            "point": "POINT(9.99302 53.55073)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "149637539": {
+        "name": "Bibliothèque Municipale Epinal",
+        "alternativeNames": [
+            "Bibliothèque multimédia intercommunale Épinal Épinal (F-E)",
+            "Bibliothèque municipale d'Épinal",
+            "bibliothèque multimédia intercommunale d'Épinal"
+        ],
+        "ISNI": "0000000123484333",
+        "space": null,
+        "cityGEO": {
+            "id": 3020035,
+            "name": "Épinal",
+            "admin1": "Grand Est",
+            "point": "POINT(6.45304 48.18324)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "136040265": {
+        "name": "University of Notre Dame. Library",
+        "alternativeNames": [
+            "University of Notre Dame, Libraries",
+            "Theodore Hesburgh Library",
+            "University of Notre Dame (Indiana). Library"
+        ],
+        "ISNI": "0000000122599753",
+        "space": "notre dame ind",
+        "cityGEO": {
+            "id": 8469294,
+            "name": "Notre Dame",
+            "admin1": "Indiana",
+            "point": "POINT(-86.23793 41.70019)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "124947742": {
+        "name": "Universitetsbiblioteket",
+        "alternativeNames": [
+            "Københavns Universitetsbibliotek",
+            "Universitetsbiblioteket Copenhague",
+            "Københavns universitet. Universitetsbiblioteket",
+            "Københavns Universitetsbiblioteket"
+        ],
+        "ISNI": "0000000122645297",
+        "space": "kopenhagen",
+        "cityGEO": {
+            "id": 2618425,
+            "name": "Copenhagen",
+            "admin1": null,
+            "point": "POINT(12.56553 55.67594)",
+            "country": "Denmark"
+        },
+        "geo": "Denmark"
+    },
+    "127114742": {
+        "name": "National Library of Russia",
+        "alternativeNames": [
+            "Rossiĭskai︠a︡ nat︠s︡ional'nai︠a︡ biblioteka",
+            "Rosyjska Biblioteka Narodowa (Petersburg)",
+            "הספרייה הציבורית על שם סלטיקוב-שצ'דרין (פטרבורג)",
+            "Rossijskaja nacionaľnaja biblioteka (Petrohrad, Rusko)",
+            "Rossijskaâ nacional'naâ biblioteka (Saint-Pétersbourg, Russie)",
+            "Российская Национальная библиотека (Санкт-Петербург)",
+            "Rossijskaja nacional'naja biblioteka Sankt-Peterburg (RUS-SPsc)",
+            "Rossijskaja nacional/ naja biblioteka",
+            "Rússia., National Library",
+            "Российская национальная библиотека",
+            "Rossijskaâ nacional'naâ biblioteka.",
+            "Государственная публичная библиотека им. Салтыкова-Щедрина, Отдел каталогизации",
+            "Rossijskaja nacional'naja biblioteka Sankt-Peterburg",
+            "ロシア国立図書館",
+            "Rossijskaja nacional'naja biblioteka",
+            "Bibliothèque nationale de Russie"
+        ],
+        "ISNI": "0000000122431029",
+        "space": "sankt petersburg",
+        "cityGEO": {
+            "id": 498817,
+            "name": "St Petersburg",
+            "admin1": null,
+            "point": "POINT(30.31413 59.93863)",
+            "country": "Russia"
+        },
+        "geo": "Russia"
+    },
+    "137409011": {
+        "name": "Archivio di Stato",
+        "alternativeNames": [
+            "Archivio di Stato di Viterbo archives in Italy",
+            "Archivio di Stato di Viterbo"
+        ],
+        "ISNI": "0000000121773254",
+        "space": null,
+        "cityGEO": {
+            "id": 3164039,
+            "name": "Viterbo",
+            "admin1": "Lazio",
+            "point": "POINT(12.1056 42.41937)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "147817727": {
+        "name": "Archives départementales de Meurthe-et-Moselle",
+        "alternativeNames": [
+            "Archives départementales de Meurthe-et-Moselle Nancy (F-NAad)",
+            "Archives Départementales de Meurthe-et-Moselle (Nancy)",
+            "archives départementales de Meurthe-et-Moselle archives du département de Meurthe-et-Moselle",
+            "Archives départementales (Meurthe-et-Moselle)",
+            "Meurthe-et-Moselle. Archives départementales"
+        ],
+        "ISNI": "0000000119574264",
+        "space": null,
+        "cityGEO": {
+            "id": 2990999,
+            "name": "Nancy",
+            "admin1": "Grand Est",
+            "point": "POINT(6.18496 48.68439)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "154268662": {
+        "name": "Biblioteca marucelliana",
+        "alternativeNames": [
+            "Biblioteca Marucelliana Firenze (I-Fm)",
+            "Biblioteca Marucelliana Florence, Italie",
+            "Biblioteca Marucelliana (Firenze)",
+            "Biblioteca Marucelliana di Firenze"
+        ],
+        "ISNI": "0000000122973186",
+        "space": "florenz",
+        "cityGEO": {
+            "id": 3176959,
+            "name": "Florence",
+            "admin1": "Tuscany",
+            "point": "POINT(11.24626 43.77925)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "151455226": {
+        "name": "Cardiff Central Library",
+        "alternativeNames": [
+            "Cardiff Central Library (Wales)",
+            "Central Library Cardiff"
+        ],
+        "ISNI": "0000000101649475",
+        "space": null,
+        "cityGEO": {
+            "id": 2653822,
+            "name": "Cardiff",
+            "admin1": "Wales",
+            "point": "POINT(-3.18 51.48)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "128759256": {
+        "name": "Bibliothèque municipale Saint-Germain-en-Laye",
+        "alternativeNames": [
+            "bibliothèque municipale de Saint-Germain-en-Laye, Yvelines"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2979783,
+            "name": "Saint-Germain-en-Laye",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.0904 48.89643)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "19145003286661301946": {
+        "name": "Bibliothèque de l'Université de l'État",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2790869,
+            "name": "Mons",
+            "admin1": "Wallonia",
+            "point": "POINT(3.95229 50.45413)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "130108013": {
+        "name": "McGill University. Libraries",
+        "alternativeNames": [
+            "McGill University. Bibliothèques"
+        ],
+        "ISNI": null,
+        "space": "montreal",
+        "cityGEO": {
+            "id": 6077243,
+            "name": "Montreal",
+            "admin1": "Quebec",
+            "point": "POINT(-73.58781 45.50884)",
+            "country": "Canada"
+        },
+        "geo": "Canada"
+    },
+    "139599477": {
+        "name": "Hessisches Hauptstaatsarchiv",
+        "alternativeNames": [
+            "Hesse. Hauptstaatsarchiv (Wiesbaden, Allemagne)",
+            "Hessisches Hauptstaatsarchiv Wiesbaden, Allemagne",
+            "Hessisches Hauptstaatsarchiv Wiesbaden (D-WIhha)",
+            "Hessisches Hauptstaatsarchiv Abteilung des Hessischen Landesarchivs mit Sitz in Wiesbaden",
+            "Hessisches Hauptstaatsarchiv (Wiesbaden)"
+        ],
+        "ISNI": "0000000123148786",
+        "space": "wiesbaden",
+        "cityGEO": {
+            "id": 2809346,
+            "name": "Wiesbaden",
+            "admin1": "Hesse",
+            "point": "POINT(8.24932 50.08258)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "137908739": {
+        "name": "Bibliothèque municipale et interuniversitaire. Clermont-Ferrand",
+        "alternativeNames": [
+            "Clermont-Ferrand (France). Bibliothèque municipale et interuniversitaire",
+            "Bibliothèque Municipale",
+            "Bibliothèque municipale et interuniversitaire (Clermont-Ferrand, France)"
+        ],
+        "ISNI": "0000000123588941",
+        "space": "clermont ferrand",
+        "cityGEO": {
+            "id": 3024635,
+            "name": "Clermont-Ferrand",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(3.08682 45.77969)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "146436947": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèque municipale (Châlons-sur-Marne)",
+            "Châlons-en-Champagne, Bibliothèques municipales",
+            "Bibliothèque municipale de Châlons-en-Champagne"
+        ],
+        "ISNI": null,
+        "space": "chalons en champagne",
+        "cityGEO": {
+            "id": 3027487,
+            "name": "Châlons-en-Champagne",
+            "admin1": "Grand Est",
+            "point": "POINT(4.36724 48.95393)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "147210143": {
+        "name": "York Minster. Library",
+        "alternativeNames": [
+            "Minster Library York (GB-Y)"
+        ],
+        "ISNI": null,
+        "space": "york",
+        "cityGEO": {
+            "id": 2633352,
+            "name": "York",
+            "admin1": "England",
+            "point": "POINT(-1.08271 53.95763)",
+            "country": "United Kingdom"
+        },
+        "geo": "United States"
+    },
+    "156615544": {
+        "name": "Universidade de Coimbra., Biblioteca Geral",
+        "alternativeNames": [
+            "Biblioteca Geral da Universidade de Coimbra"
+        ],
+        "ISNI": "0000000121924104",
+        "space": "coimbra",
+        "cityGEO": {
+            "id": 2740637,
+            "name": "Coimbra",
+            "admin1": null,
+            "point": "POINT(-8.41955 40.20564)",
+            "country": "Portugal"
+        },
+        "geo": "Portugal"
+    },
+    "147848776": {
+        "name": "Seminario di Padova",
+        "alternativeNames": [
+            "Seminario vescovile di Padova (Padoue)",
+            "Seminario vescovile Padoue, Italie",
+            "Seminario vescovile (Padwa)."
+        ],
+        "ISNI": "000000009955939X",
+        "space": null,
+        "cityGEO": {
+            "id": 3171728,
+            "name": "Padua",
+            "admin1": "Veneto",
+            "point": "POINT(11.88586 45.40797)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "50146937704013831006": {
+        "name": "Bibliothèque Louis-Garret",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2969562,
+            "name": "Vesoul",
+            "admin1": "Bourgogne-Franche-Comté",
+            "point": "POINT(6.14251 47.62604)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "273696433": {
+        "name": "Katholieke Universiteit te Leuven . Universiteitsbibliotheek",
+        "alternativeNames": [
+            "Bibliothèque universitaire KU Leuven",
+            "Katholieke Universiteit te Leuven Universiteitsbibliotheek former owner of Philadelphia, Free Library, Lewis E 213",
+            "Sint-Maartensdaal (Löwen) Bibliotheek",
+            "Université catholique de Louvain 1435-1970, Bibliothèque",
+            "Katholieke Universiteit te Leuven. Universiteitsbibliotheek",
+            "Universiteitsbibliotheek-K.U. Leuven (Louvain)"
+        ],
+        "ISNI": "000000011940824X",
+        "space": "lowen",
+        "cityGEO": {
+            "id": 2792482,
+            "name": "Leuven",
+            "admin1": "Flanders",
+            "point": "POINT(4.70093 50.87959)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "127309070": {
+        "name": "Archives de l'Etat",
+        "alternativeNames": [
+            "Archives de l'État de Fribourg Fribourg (CH-Faef)",
+            "Archives de l'État de Fribourg Suisse",
+            "Staatsarchiv Freiburg (Schweiz)",
+            "Archives de l'État de Fribourg (collection)",
+            "Archives de l'État  (Fribourg, Suisse) (canton)",
+            "Archives de l'Etat de Fribourg"
+        ],
+        "ISNI": "0000000110876952",
+        "space": "freiburg im uechtland",
+        "cityGEO": {
+            "id": 2660718,
+            "name": "Fribourg",
+            "admin1": null,
+            "point": "POINT(7.15128 46.80237)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "148396150": {
+        "name": "Forschungsbibliothek Gotha",
+        "alternativeNames": [
+            "Landesbibliothek Gotha."
+        ],
+        "ISNI": "0000000107030008",
+        "space": "gotha",
+        "cityGEO": {
+            "id": 2918752,
+            "name": "Gotha",
+            "admin1": "Thuringia",
+            "point": "POINT(10.70193 50.94823)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "701149198282274940008": {
+        "name": "Biblioteca capitolare",
+        "alternativeNames": [
+            "Biblioteca capitolare Monza, Italie",
+            "Biblioteca capitolare di Monza",
+            "Biblioteca capitolare del Duomo Monza (I-MZ)",
+            "Biblioteca capitolare (Verona, Italia)",
+            "Biblioteca Capitolare Monza"
+        ],
+        "ISNI": "0000000121702480",
+        "space": "monza",
+        "cityGEO": {
+            "id": 3172629,
+            "name": "Monza",
+            "admin1": "Lombardy",
+            "point": "POINT(9.27246 45.58005)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "156582730": {
+        "name": "Badische Landesbibliothek Karlsruhe",
+        "alternativeNames": [
+            "Badische Landesbibliothek.",
+            "Badische Landesbibliothek (Karlsruhe, Allemagne)",
+            "Badische Landesbibliothek, Musiksammlung Karlsruhe (D-KA)"
+        ],
+        "ISNI": "0000000405650782",
+        "space": "karlsruhe",
+        "cityGEO": {
+            "id": 2892794,
+            "name": "Karlsruhe",
+            "admin1": "Baden-Wurttemberg",
+            "point": "POINT(8.40444 49.00937)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "155510318": {
+        "name": "Bibliothèque Municipale Valenciennes",
+        "alternativeNames": [
+            "bibliothèque municipale de Valenciennes",
+            "Bibliothèque municipale Valenciennes (F-VAL)",
+            "Valenciennes (France). Bibliothèque municipale",
+            "Bibliothèque municipale Valenciennes, Nord",
+            "Bibliothèque Municipale"
+        ],
+        "ISNI": "0000000119583128",
+        "space": "valenciennes",
+        "cityGEO": {
+            "id": 2971041,
+            "name": "Valenciennes",
+            "admin1": "Hauts-de-France",
+            "point": "POINT(3.52506 50.35909)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "141912871": {
+        "name": "Lincolnshire Archives Office",
+        "alternativeNames": [],
+        "ISNI": "0000000106965928",
+        "space": null,
+        "cityGEO": {
+            "id": 2644487,
+            "name": "Lincoln",
+            "admin1": "England",
+            "point": "POINT(-0.53792 53.22683)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "153679842": {
+        "name": "Archives départementales de la Manche",
+        "alternativeNames": [
+            "archives départementales de la Manche archives du département de la Manche",
+            "Archives Départementales de la Manche Saint-Lô",
+            "Archives départementales (Manche)",
+            "Manche. Archives départementales"
+        ],
+        "ISNI": "0000000122968555",
+        "space": "saint lo",
+        "cityGEO": {
+            "id": 2978758,
+            "name": "Saint-Lô",
+            "admin1": "Normandy",
+            "point": "POINT(-1.09031 49.11624)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "146085455": {
+        "name": "Biblioteca apostolica vaticana",
+        "alternativeNames": [
+            "Biblioteka Watykańska",
+            "ספריית הוותיקן",
+            "Biblioteca Apostolica Vaticana Città del Vaticano (V-CVbav)",
+            "Biblioteca apostolica vaticana (Vatikán)",
+            "Vaticano., Biblioteca Apostolica Vaticana",
+            "bibliothèque apostolique vaticane"
+        ],
+        "ISNI": "0000000121786485",
+        "space": "rom",
+        "cityGEO": {
+            "id": 3169070,
+            "name": "Rome",
+            "admin1": "Lazio",
+            "point": "POINT(12.51133 41.89193)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "136779628": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "bibliothèque municipale de Laon",
+            "Bibliothèque municipale Suzanne Martinet",
+            "Bibliothèque municipale Laon (F-LA)",
+            "Bibliothèque de Laon",
+            "Bibliothèque Municipale",
+            "Bibliothèque municipale Suzanne Martinet Laon"
+        ],
+        "ISNI": "0000000121655274",
+        "space": null,
+        "cityGEO": {
+            "id": 3007477,
+            "name": "Laon",
+            "admin1": "Hauts-de-France",
+            "point": "POINT(3.62714 49.5631)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "136478623": {
+        "name": "Archives départementales des Côtes-d'Armor",
+        "alternativeNames": [],
+        "ISNI": "0000000121104202",
+        "space": null,
+        "cityGEO": {
+            "id": 2981280,
+            "name": "Saint-Brieuc",
+            "admin1": "Brittany",
+            "point": "POINT(-2.76838 48.51513)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "140782799": {
+        "name": "Pierpont Morgan Library",
+        "alternativeNames": [
+            "Morgan library & museum New York, N.Y.",
+            "Pierpont Morgan Library New York, NY",
+            "The Morgan Library & Museum New York City, NY (US-NYpm)",
+            "Pierpont Morgan Library (Estados Unidos)",
+            "Pierpont Morgan library (New York)"
+        ],
+        "ISNI": "0000000122929935",
+        "space": "new york ny",
+        "cityGEO": {
+            "id": 5128581,
+            "name": "New York",
+            "admin1": "New York",
+            "point": "POINT(-74.00597 40.71427)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "152743245": {
+        "name": "Rijksmuseum Het Catharijneconvent",
+        "alternativeNames": [
+            "Museum Catharijneconvent.",
+            "Rijksmuseum Het Catharijneconvent (Utrecht)",
+            "Rijksmuseum Het Catharijneconvent (Utrecht, Pays-Bas)",
+            "Museum Catharijneconvent Utrecht (NL-Urc)",
+            "Museum Catharijneconvent Utrecht, Pays-Bas",
+            "St. Catherine's Convent (Sion Hill, Dublin)",
+            "Museum Catharijneconvent (Utrecht)"
+        ],
+        "ISNI": "0000000417850247",
+        "space": null,
+        "cityGEO": {
+            "id": 2745912,
+            "name": "Utrecht",
+            "admin1": null,
+            "point": "POINT(5.12222 52.09083)",
+            "country": "The Netherlands"
+        },
+        "geo": null
+    },
+    "149068766": {
+        "name": "Bibliothèque de la Sorbonne",
+        "alternativeNames": [
+            "Bibliothèque de la Sorbonne (Paris)",
+            "Bibliothèque de l'Université de France",
+            "Bibliothèque interuniversitaire de la Sorbonne (Paris)"
+        ],
+        "ISNI": "0000000121817384",
+        "space": "paris",
+        "cityGEO": {
+            "id": 2988507,
+            "name": "Paris",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.3488 48.85341)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "142526182": {
+        "name": "Archives Départementales de la Vienne",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2986495,
+            "name": "Poitiers",
+            "admin1": "Nouvelle-Aquitaine",
+            "point": "POINT(0.34348 46.58261)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "169315054": {
+        "name": "Stiftsbibliothek Seitenstetten",
+        "alternativeNames": [
+            "Benediktinerstift Seitenstetten. Bibliothek",
+            "Benediktinerstift Seitenstetten. Stiftsbibliothek"
+        ],
+        "ISNI": null,
+        "space": "seitenstetten",
+        "cityGEO": {
+            "id": 2765196,
+            "name": "Seitenstetten Markt",
+            "admin1": "Lower Austria",
+            "point": "POINT(14.65 48.03333)",
+            "country": "Austria"
+        },
+        "geo": "Austria"
+    },
+    "152129314": {
+        "name": "Schøyen Collection",
+        "alternativeNames": [
+            "Schøyen-samlingen",
+            "Schøyen Collection of Western Manuscripts"
+        ],
+        "ISNI": null,
+        "space": "oslo",
+        "cityGEO": {
+            "id": 3143244,
+            "name": "Oslo",
+            "admin1": null,
+            "point": "POINT(10.74609 59.91273)",
+            "country": "Norway"
+        },
+        "geo": "Norway"
+    },
+    "125125135": {
+        "name": "Bloomsbury Book Auctions",
+        "alternativeNames": [
+            "Bloomsbury Book Auctions (Firm) London auctioneer founded by Frank Hermann and David Stagg",
+            "Bloomsbury Book Auctions (Firme)",
+            "Bloomsbury Book Auctions (firma)",
+            "Bloomsbury Book Auctions London"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "24159032764001182193": {
+        "name": "Cathedral Library Ripon",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2639323,
+            "name": "Ripon",
+            "admin1": "England",
+            "point": "POINT(-1.52826 54.13579)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "169261871": {
+        "name": "Bibliothèque Municipale Dijon",
+        "alternativeNames": [
+            "Bibliothèque municipale de Dijon",
+            "Dijon (France). Bibliothèque municipale",
+            "Bibliothèque municipale Dijon (F-Dm)"
+        ],
+        "ISNI": "0000000404477551",
+        "space": "dijon",
+        "cityGEO": {
+            "id": 3021372,
+            "name": "Dijon",
+            "admin1": "Bourgogne-Franche-Comté",
+            "point": "POINT(5.01667 47.31667)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "134321830": {
+        "name": "Fondation Martin Bodmer",
+        "alternativeNames": [
+            "Fondation Martin Bodmer (Cologny)",
+            "Foundation Martin Bodmer",
+            "Fondation Martin Bodmer (Cologny, Suisse)"
+        ],
+        "ISNI": "0000000121621672",
+        "space": "cologny",
+        "cityGEO": {
+            "id": 6691492,
+            "name": "Cologny",
+            "admin1": "Geneva",
+            "point": "POINT(6.18041 46.21672)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "124593334": {
+        "name": "Bibliothèque de Toulouse",
+        "alternativeNames": [
+            "Bibliothèques de Toulouse",
+            "Bibliothèque Municipale Toulouse",
+            "Bibliothèque municipale de Toulouse"
+        ],
+        "ISNI": "0000000120971793",
+        "space": "toulouse",
+        "cityGEO": {
+            "id": 2972315,
+            "name": "Toulouse",
+            "admin1": "Occitanie",
+            "point": "POINT(1.44367 43.60426)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "137869949": {
+        "name": "Biblioteca nazionale di Torino",
+        "alternativeNames": [
+            "Biblioteca nazionale universitaria Torino (I-Tn)",
+            "Biblioteca nazionale universitaria di Torino",
+            "Biblioteca nazionale universitaria Turin, Italie",
+            "Biblioteca Nazionale (Torino)",
+            "Biblioteca nazionale universitaria di Torino Italia",
+            "Biblioteca nazionale universitaria (Turyn).",
+            "Biblioteca Nazionale Universitaria"
+        ],
+        "ISNI": "0000000121669553",
+        "space": "turin",
+        "cityGEO": {
+            "id": 3165524,
+            "name": "Turin",
+            "admin1": "Piedmont",
+            "point": "POINT(7.68682 45.07049)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "258599271": {
+        "name": "Archives de l'État à Liège",
+        "alternativeNames": [],
+        "ISNI": "0000000096909032",
+        "space": null,
+        "cityGEO": {
+            "id": 2792413,
+            "name": "Liège",
+            "admin1": "Wallonia",
+            "point": "POINT(5.56749 50.63373)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "123993876": {
+        "name": "Biblioteca nazionale di Napoli",
+        "alternativeNames": [
+            "Biblioteca Nazionale Vittorio Emanuele III Napoli (I-Nn)",
+            "Biblioteca nazionale Vittorio Emanuele III (Napoli)",
+            "Biblioteca nazionale (Naples, Italie)",
+            "Biblioteca nazionale (Nàpols, Itàlia)",
+            "Biblioteca nazionale (Naples, Italy)",
+            "Biblioteca nazionale Vittorio Emanuele III Naples, Italie",
+            "Biblioteca nazionale Vittorio Emanuelle III (Napoli)",
+            "Biblioteca Nazionale",
+            "Biblioteca nazionale (Νεάπολη, Ιταλία)",
+            "Biblioteca nazionale Vittorio Emanuele III",
+            "Biblioteca Nazionale Vittorio Emanuele III (Neapol)."
+        ],
+        "ISNI": "0000000119310912",
+        "space": "neapel",
+        "cityGEO": {
+            "id": 3172394,
+            "name": "Naples",
+            "admin1": "Campania",
+            "point": "POINT(14.26811 40.85216)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "138366214": {
+        "name": "University of Missouri",
+        "alternativeNames": [
+            "University of Missouri, Elmer Ellis Library Columbia, MO (US-COL)",
+            "Mizzou Botanic Garden",
+            "Université du Missouri"
+        ],
+        "ISNI": "0000000121679268",
+        "space": "columbia mo",
+        "cityGEO": {
+            "id": 4381982,
+            "name": "Columbia",
+            "admin1": "Missouri",
+            "point": "POINT(-92.33407 38.95171)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "149564739": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèque publique (Dijon)",
+            "Bibliothèque municipale de Besançon",
+            "Bibliothèque Municipale",
+            "Bibliothèque municipale Besançon (F-B)"
+        ],
+        "ISNI": "0000000122962452",
+        "space": "besancon",
+        "cityGEO": {
+            "id": 3033123,
+            "name": "Besançon",
+            "admin1": "Bourgogne-Franche-Comté",
+            "point": "POINT(6.01815 47.24878)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "157042679": {
+        "name": "Great Britain. Public Record Office",
+        "alternativeNames": [
+            "Yr Archifdy Gwladol",
+            "Storbritannia Public Record Office",
+            "Wielka Brytania. Public Record Office.",
+            "Public record office GB",
+            "Great Britain Public Record Office London",
+            "Großbritannien Public Record Office (London)",
+            "Great Britain. Public Records Office",
+            "Public Record Office (Gran Bretagna)",
+            "Velká Británie. Public Record Office"
+        ],
+        "ISNI": "0000000121929175",
+        "space": "london",
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "144844940": {
+        "name": "Académie Saint-Anselme",
+        "alternativeNames": [
+            "Société académique, religieuse et scientifique du duché d'Aoste",
+            "Académie Saint-Anselme Aoste, Italie"
+        ],
+        "ISNI": "0000000121762686",
+        "space": null,
+        "cityGEO": {
+            "id": 3182997,
+            "name": "Aosta",
+            "admin1": "Aosta Valley",
+            "point": "POINT(7.31722 45.73764)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "153502342": {
+        "name": "Thomas Fisher Rare Book Library",
+        "alternativeNames": [
+            "Thomas Fisher rare book library (Toronto, Canada)",
+            "University of Toronto. Thomas Fisher Rare Book Library",
+            "Thomas Fisher rare book library Toronto, Ont.",
+            "Bibliothèque de livres rares de Thomas Fisher",
+            "University of Toronto, Thomas Fisher Rare Book Library Toronto (CDN-Ttfl)",
+            "University of Toronto Library",
+            "Thomas Fisher Rare Book Library Toronto"
+        ],
+        "ISNI": "0000000121885037",
+        "space": "toronto",
+        "cityGEO": {
+            "id": 6167865,
+            "name": "Toronto",
+            "admin1": "Ontario",
+            "point": "POINT(-79.39864 43.70643)",
+            "country": "Canada"
+        },
+        "geo": "Canada"
+    },
+    "262526603": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèques d'Albi",
+            "Médiathèque Pierre Amalric Albi",
+            "Bibliothèque municipale d'Albi",
+            "Bibliothèque Municipale",
+            "Bibliothèque Municipale Rochegude"
+        ],
+        "ISNI": "0000000108055936",
+        "space": null,
+        "cityGEO": {
+            "id": 3038261,
+            "name": "Albi",
+            "admin1": "Occitanie",
+            "point": "POINT(2.148 43.9298)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "264479328": {
+        "name": "University of Durham. Library",
+        "alternativeNames": [
+            "University Library Durham (GB-DRu)",
+            "Durham University Library",
+            "University Durham Library",
+            "University of Durham. University Library"
+        ],
+        "ISNI": "0000000121602500",
+        "space": "durham",
+        "cityGEO": {
+            "id": 4464368,
+            "name": "Durham",
+            "admin1": "England",
+            "point": "POINT(-78.89862 35.99403)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "139553481": {
+        "name": "Rijksuniversiteit te Gent. Bibliotheek",
+        "alternativeNames": [
+            "Universiteitsbibliotheek Gand, Belgique",
+            "Rijksuniversiteit Gent. Bibliothek",
+            "Universiteitsbibliotheek UGent",
+            "Universiteitsbibliotheek Gent (B-Gu)",
+            "Rijksuniversiteit (Gandawa). Bibliotheek.",
+            "Universiteitsbibliotheek Gent"
+        ],
+        "ISNI": "0000000123484448",
+        "space": "gent",
+        "cityGEO": {
+            "id": 2797656,
+            "name": "Ghent",
+            "admin1": "Flanders",
+            "point": "POINT(3.71667 51.05)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "417145551643396660002": {
+        "name": "Biblioteca Universitaria de Salamanca",
+        "alternativeNames": [
+            "Biblioteca Universitaria (Salamanca)",
+            "Universidad de Salamanca. Biblioteca General Histórica",
+            "Biblioteca General Històrica de la Universitat de Salamanca",
+            "Universidad de Salamanca., Biblioteca",
+            "Biblioteca General de la Universidad de Salamanca",
+            "Universidad Salamanca Biblioteca General",
+            "Biblioteca General Histórica (Universidad de Salamanca) Salamanca (E-SAu)",
+            "Universidad de Salamanca. Biblioteca General."
+        ],
+        "ISNI": "0000000122921706",
+        "space": "salamanca",
+        "cityGEO": {
+            "id": 3111108,
+            "name": "Salamanca",
+            "admin1": "Castille and León",
+            "point": "POINT(-5.66388 40.96882)",
+            "country": "Spain"
+        },
+        "geo": "Spain"
+    },
+    "157848133": {
+        "name": "Médiathèque du Grand Troyes",
+        "alternativeNames": [
+            "Médiathèque Jacques-Chirac Troyes (F-T)",
+            "Bibliothèque de Troyes",
+            "Médiathèque Jacques-Chirac",
+            "Bibliothèque municipale à vocation régionale de Troyes"
+        ],
+        "ISNI": "0000000120977415",
+        "space": "troyes",
+        "cityGEO": {
+            "id": 2971549,
+            "name": "Troyes",
+            "admin1": "Grand Est",
+            "point": "POINT(4.08524 48.30073)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "239178458": {
+        "name": "Archivio capitolare",
+        "alternativeNames": [
+            "Archivio capitolare Pistoia, Italie",
+            "Archivio capitolare Pistoia (I-PS)",
+            "Archivio capitolare di Pistoia"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3170621,
+            "name": "Pistoia",
+            "admin1": "Tuscany",
+            "point": "POINT(10.92365 43.93064)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "154547278": {
+        "name": "Stichting Huis Bergh",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": "s heerenberg",
+        "cityGEO": {
+            "id": 2747357,
+            "name": "'s-Heerenberg",
+            "admin1": "Gelderland",
+            "point": "POINT(6.25877 51.8767)",
+            "country": "The Netherlands"
+        },
+        "geo": "The Netherlands"
+    },
+    "136765452": {
+        "name": "Österreichische Nationalbibliothek",
+        "alternativeNames": [
+            "كتابخانهى ملى اتريش",
+            "Áustria., Österreichische Nationalbibliothek",
+            "הספרייה הלאומית של אוסטריה",
+            "Austriacka Biblioteka Narodowa",
+            "Österreichische Nationalbibliothek (Viedeň, Rakúsko)",
+            "Österreichische Nationalbibliothek (Wien)"
+        ],
+        "ISNI": "0000000123064881",
+        "space": "wien",
+        "cityGEO": {
+            "id": 2761369,
+            "name": "Vienna",
+            "admin1": null,
+            "point": "POINT(16.37208 48.20849)",
+            "country": "Austria"
+        },
+        "geo": "Austria"
+    },
+    "150025322": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Orléans (France). Bibliothèque municipale",
+            "Bibliothèques d'Orléans",
+            "Bibliothèque municipale Orléans (F-O)",
+            "Bibliothèque municipale d'Orléans"
+        ],
+        "ISNI": "0000000122487356",
+        "space": null,
+        "cityGEO": {
+            "id": 2989317,
+            "name": "Orléans",
+            "admin1": "Centre-Val de Loire",
+            "point": "POINT(1.90389 47.90289)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "126134765": {
+        "name": "Columbia University. Rare Book and Manuscript Library",
+        "alternativeNames": [
+            "Columbia University Rare Book & Manuscript Library",
+            "Columbia university New York, Rare book and manuscript library",
+            "Rare Book and Manuscript Library",
+            "Rare Book and Manuscript Library (Columbia University)"
+        ],
+        "ISNI": "0000000121080802",
+        "space": "new york ny",
+        "cityGEO": {
+            "id": 5128581,
+            "name": "New York",
+            "admin1": "New York",
+            "point": "POINT(-74.00597 40.71427)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "158808798": {
+        "name": "University of Nottingham. Library",
+        "alternativeNames": [],
+        "ISNI": "0000000108170555",
+        "space": "nottingham",
+        "cityGEO": {
+            "id": 2641170,
+            "name": "Nottingham",
+            "admin1": "England",
+            "point": "POINT(-1.15047 52.9536)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "142483245": {
+        "name": "Universitätsbibliothek Leipzig",
+        "alternativeNames": [
+            "Universität Leipzig (Alemania). Bibliothek",
+            "Universitätsbibliothek der Universität Leipzig"
+        ],
+        "ISNI": "0000000123092970",
+        "space": "leipzig",
+        "cityGEO": {
+            "id": 2879139,
+            "name": "Leipzig",
+            "admin1": null,
+            "point": "POINT(12.37129 51.33962)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "305396398": {
+        "name": "Bibliothèque universitaire Henri de Lubac Lyon",
+        "alternativeNames": [
+            "Université catholique de Lyon. Bibliothèque universitaire Henri de Lubac"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2996944,
+            "name": "Lyon",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(4.84671 45.74846)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "150807197": {
+        "name": "Bibliothèque inguimbertine Carpentras, Vaucluse",
+        "alternativeNames": [
+            "bibliothèque Inguimbertine",
+            "Bibliothèque Inguimbertine Carpentras (F-C)",
+            "Bibliothèque inguimbertine de Carpentras",
+            "Bibliothèque Inguimbertine (Carpentras)"
+        ],
+        "ISNI": "0000000123533625",
+        "space": "carpentras",
+        "cityGEO": {
+            "id": 3028542,
+            "name": "Carpentras",
+            "admin1": "Provence-Alpes-Côte d'Azur",
+            "point": "POINT(5.04813 44.05507)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "139315116": {
+        "name": "University of Glasgow. Library",
+        "alternativeNames": [
+            "Glasgow University Library",
+            "University of Glasgow, University Library",
+            "University Library Glasgow (GB-Gu)"
+        ],
+        "ISNI": "0000000112505848",
+        "space": "glasgow",
+        "cityGEO": {
+            "id": 2648579,
+            "name": "Glasgow",
+            "admin1": "Scotland",
+            "point": "POINT(-4.25763 55.86515)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "143744216": {
+        "name": "Biblioteca nazionale centrale di Firenze",
+        "alternativeNames": [
+            "Biblioteca nazionale centrale (Firenze)",
+            "Itália Biblioteca Nazionale Centrale",
+            "Biblioteca Nazionale Centrale (Florencja).",
+            "Biblioteca nazionale centrale Florence, Italie",
+            "Itália., Biblioteca Nazionale Centrale (Firenze)",
+            "הספרייה הלאומית המרכזית של פירנצה"
+        ],
+        "ISNI": "0000000417559409",
+        "space": "florenz",
+        "cityGEO": {
+            "id": 3176959,
+            "name": "Florence",
+            "admin1": "Tuscany",
+            "point": "POINT(11.24626 43.77925)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "129558359": {
+        "name": "Harvard university library",
+        "alternativeNames": [
+            "Harvard University Library (Cambridge, Mass.)",
+            "Harvard University, Harvard College Library Cambridge, MA (US-CA)"
+        ],
+        "ISNI": "0000000114819074",
+        "space": "cambridge mass",
+        "cityGEO": {
+            "id": 4931972,
+            "name": "Cambridge",
+            "admin1": "Massachusetts",
+            "point": "POINT(-71.10561 42.3751)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "157681964": {
+        "name": "Archives départementales",
+        "alternativeNames": [
+            "Marne. Archives départementales",
+            "Archives départementales de la Marne",
+            "archives départementales de la Marne archives du département de la Marne"
+        ],
+        "ISNI": "0000000119456380",
+        "space": null,
+        "cityGEO": {
+            "id": 3027487,
+            "name": "Châlons-en-Champagne",
+            "admin1": "Grand Est",
+            "point": "POINT(4.36724 48.95393)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "127347391": {
+        "name": "Hessische Landes- und Hochschulbibliothek Darmstadt",
+        "alternativeNames": [
+            "Hessische Landes- und Hochschulbibliothek",
+            "Hessischen Landes- und Hochschulbibliothek Darmstadt",
+            "Hessische Landes- und Hochschulbibliothek Darmstadt, Allemagne"
+        ],
+        "ISNI": "0000000121536988",
+        "space": "darmstadt",
+        "cityGEO": {
+            "id": 2938913,
+            "name": "Darmstadt",
+            "admin1": "Hesse",
+            "point": "POINT(8.65027 49.87167)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "132157055": {
+        "name": "Parker Library Cambridge",
+        "alternativeNames": [
+            "Parker Library (Corpus Christi College)",
+            "Corpus Christi College (Cambridge) Cambridge (GB-Ccc)",
+            "Parker Library",
+            "Corpus Christi College Cambridge, GB, Library"
+        ],
+        "ISNI": "0000000090493507",
+        "space": "cambridge",
+        "cityGEO": {
+            "id": 2653941,
+            "name": "Cambridge",
+            "admin1": "England",
+            "point": "POINT(0.11667 52.2)",
+            "country": "United Kingdom"
+        },
+        "geo": "United States"
+    },
+    "286682135": {
+        "name": "Erfgoedbibliotheek Hendrik Conscience",
+        "alternativeNames": [
+            "Erfgoedbibliotheek Hendrik Conscience",
+            "Erfgoedbibliotheek Hendrik Conscience (Anvers, Belgique)",
+            "Erfgoedbibliotheek Hendrik Conscience Anvers"
+        ],
+        "ISNI": null,
+        "space": "antwerpen",
+        "cityGEO": {
+            "id": 2803138,
+            "name": "Antwerp",
+            "admin1": "Flanders",
+            "point": "POINT(4.40026 51.22047)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "125646738": {
+        "name": "Universitäts- und Landesbibliothek Düsseldorf",
+        "alternativeNames": [
+            "Universitäts-und Landesbibliothek Düsseldorf, Allemagne",
+            "Heinrich-Heine-Universität, Universitäts- und Landesbibliothek Düsseldorf (D-DÜl)"
+        ],
+        "ISNI": "0000000109410725",
+        "space": "dusseldorf",
+        "cityGEO": {
+            "id": 2934246,
+            "name": "Düsseldorf",
+            "admin1": "North Rhine-Westphalia",
+            "point": "POINT(6.77616 51.22172)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "122203699": {
+        "name": "Sächsische Landesbibliothek",
+        "alternativeNames": [
+            "Sächsische Landesbibliothek (Drezno).",
+            "Sächsische Landesbibliothek (Dresden, Alemanya)",
+            "Sächsische Landesbibliothek Dresden",
+            "SLUB",
+            "Sächsische Landesbibliothek (Drēzdene, Vācija)",
+            "Sachsische Landesbibliothek (Alemanha)",
+            "Sächsische Landesbibliothek",
+            "Sächsische Landesbibliothek (Drážďany, Německo)",
+            "Sächsische Landesbibliothek (Dresde, Allemagne)"
+        ],
+        "ISNI": "0000000123081585",
+        "space": "dresden",
+        "cityGEO": {
+            "id": 2935022,
+            "name": "Dresden",
+            "admin1": "Saxony",
+            "point": "POINT(13.73832 51.05089)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "125214072": {
+        "name": "Massachusetts historical society",
+        "alternativeNames": [
+            "Massachusetts Historical Society (Estados Unidos)",
+            "Massachusetts Historical Society Library Boston, MA (US-Bhs)"
+        ],
+        "ISNI": "0000000121515650",
+        "space": null,
+        "cityGEO": {
+            "id": 4930956,
+            "name": "Boston",
+            "admin1": "Massachusetts",
+            "point": "POINT(-71.05977 42.35843)",
+            "country": "United States"
+        },
+        "geo": "massachusetts"
+    },
+    "132228110": {
+        "name": "University of California, Los Angeles. Library",
+        "alternativeNames": [
+            "University of California (Berkeley, Calif.) Library",
+            "University research library",
+            "University research library Los Angeles, Calif.",
+            "University of California (Los Angeles). University Research Library",
+            "University of California Los Angeles, Calif, Library",
+            "University of California, Los Angeles. Research Library"
+        ],
+        "ISNI": "0000000121602279",
+        "space": "berkeley calif",
+        "cityGEO": {
+            "id": 5327684,
+            "name": "Berkeley",
+            "admin1": "California",
+            "point": "POINT(-122.27275 37.87159)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "154202136": {
+        "name": "Archivio di stato di Bologna",
+        "alternativeNames": [
+            "Archivio di Stato (Bolonia).",
+            "Archivio di Stato",
+            "Archivio di stato (Bologna)",
+            "Italie. Archivio di Stato (Bologne)"
+        ],
+        "ISNI": "000000012297076X",
+        "space": "bologna",
+        "cityGEO": {
+            "id": 3181928,
+            "name": "Bologna",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(11.33875 44.49381)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "134350873": {
+        "name": "Bibliothèque de la ville",
+        "alternativeNames": [
+            "Bibliothèque publique de la Ville (Neuenburg, Schweiz)",
+            "Médiathèque municipale de Saint-Étienne."
+        ],
+        "ISNI": "0000000122886293",
+        "space": "neuenburg schweiz",
+        "cityGEO": {
+            "id": 2659496,
+            "name": "Neuchâtel",
+            "admin1": null,
+            "point": "POINT(6.931 46.99179)",
+            "country": "Switzerland"
+        },
+        "geo": "Switzerland"
+    },
+    "28159032787301182779": {
+        "name": "Biblioteca Civica Nicolò Cuneo Camogli",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3181071,
+            "name": "Camogli",
+            "admin1": "Liguria",
+            "point": "POINT(9.15487 44.34945)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "129750491": {
+        "name": "Bibliothèque de Chartres",
+        "alternativeNames": [
+            "Bibliothèque municipale (Chartres).",
+            "bibliothèque municipale de Chartres",
+            "Bibliothèque Municipale"
+        ],
+        "ISNI": "0000000121564938",
+        "space": "chartres",
+        "cityGEO": {
+            "id": 3026467,
+            "name": "Chartres",
+            "admin1": "Centre-Val de Loire",
+            "point": "POINT(1.48925 48.44685)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "159048724": {
+        "name": "Fitzwilliam Museum",
+        "alternativeNames": [
+            "Fitzwilliam Museum Cambrigde, Great Britain",
+            "Fitzwilliam Museum Cambridge"
+        ],
+        "ISNI": "0000000120978530",
+        "space": null,
+        "cityGEO": {
+            "id": 2653941,
+            "name": "Cambridge",
+            "admin1": "England",
+            "point": "POINT(0.11667 52.2)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "140790558": {
+        "name": "University of Cambridge. Library",
+        "alternativeNames": [
+            "University of Cambridge (Inglaterra). Library",
+            "אוניברסיטת קיימברידג'. הספרייה",
+            "Biblioteka Uniwersytetu w Cambridge",
+            "University of Cambridge. University Library",
+            "Llyfrgell Prifysgol Caergrawnt"
+        ],
+        "ISNI": "0000000459040795",
+        "space": "cambridge",
+        "cityGEO": {
+            "id": 2653941,
+            "name": "Cambridge",
+            "admin1": "England",
+            "point": "POINT(0.11667 52.2)",
+            "country": "United Kingdom"
+        },
+        "geo": "United States"
+    },
+    "156462269": {
+        "name": "Stadtbibliothek Trier",
+        "alternativeNames": [
+            "Stadtbibliothek Trèves, Allemagne",
+            "Stadtbibliothek Trier, Deutschland"
+        ],
+        "ISNI": "0000000123697101",
+        "space": "trier",
+        "cityGEO": {
+            "id": 2821164,
+            "name": "Trier",
+            "admin1": "Rheinland-Pfalz",
+            "point": "POINT(6.63935 49.75565)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "149670800": {
+        "name": "Archives départementales de l'Ariège",
+        "alternativeNames": [
+            "Ariège. Archives départementales",
+            "Archives départementales (Ariège)"
+        ],
+        "ISNI": "0000000121827160",
+        "space": null,
+        "cityGEO": {
+            "id": 3018174,
+            "name": "Foix",
+            "admin1": "Occitanie",
+            "point": "POINT(1.60705 42.96535)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "137201631": {
+        "name": "Trinity College",
+        "alternativeNames": [
+            "University of Cambridge Trinity College",
+            "Trinity College Cambridge",
+            "Colaiste na Trianaide",
+            "Trinity College Library Cambridge (GB-Ctc)",
+            "Trinity College",
+            "Trinity college Cambridge, GB"
+        ],
+        "ISNI": "0000000122431918",
+        "space": "cambridge",
+        "cityGEO": {
+            "id": 2653941,
+            "name": "Cambridge",
+            "admin1": "England",
+            "point": "POINT(0.11667 52.2)",
+            "country": "United Kingdom"
+        },
+        "geo": "United States"
+    },
+    "141633615": {
+        "name": "Biblioteca estense",
+        "alternativeNames": [
+            "Biblioteca estense (Modène, Italie)",
+            "Biblioteca estense",
+            "Biblioteca Estense Universitaria Modena (I-MOe)",
+            "Biblioteca estense (Modena, Itálie)",
+            "Biblioteca Estense universitaria Modène, Italie",
+            "Biblioteca Estense Universitaria",
+            "Biblioteca Estense Modena, Italija",
+            "Biblioteca Estense (Modène)",
+            "Biblioteca estense (Modena, Italy)"
+        ],
+        "ISNI": "0000000121716938",
+        "space": "modena",
+        "cityGEO": {
+            "id": 3173331,
+            "name": "Modena",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(10.92539 44.64783)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "168805686": {
+        "name": "Biblioteca arcivescovile",
+        "alternativeNames": [
+            "Biblioteca arcivescovile di Udine",
+            "Biblioteca arcivescovile (Udine, Italie)",
+            "Biblioteca Arcivescovile e Bartoliniana Udine (I-UDba)",
+            "Palazzo Patriarcale"
+        ],
+        "ISNI": "0000000121135658",
+        "space": "udine",
+        "cityGEO": {
+            "id": 3165072,
+            "name": "Udine",
+            "admin1": "Friuli Venezia Giulia",
+            "point": "POINT(13.23715 46.0693)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "125172064": {
+        "name": "Biblioteca trivulziana",
+        "alternativeNames": [
+            "Biblioteca trivulziana Milan, Italie",
+            "Biblioteca Trivulziana (Milano)"
+        ],
+        "ISNI": "0000000119451934",
+        "space": "castello sforzesco mailand",
+        "cityGEO": {
+            "id": 3173435,
+            "name": "Milan",
+            "admin1": "Lombardy",
+            "point": "POINT(9.18951 45.46427)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "140802630": {
+        "name": "Bowdoin College. Library",
+        "alternativeNames": [
+            "Hawthorne Longfellow Library"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 4959473,
+            "name": "Brunswick",
+            "admin1": "Maine",
+            "point": "POINT(-69.96533 43.91452)",
+            "country": "United States"
+        },
+        "geo": null
+    },
+    "143970573": {
+        "name": "College of Arms",
+        "alternativeNames": [
+            "College of arms",
+            "College of arms GB",
+            "Coleg yr Arfau",
+            "College of Arms (Grande-Bretagne)",
+            "College of Arms (Inghilterra)",
+            "College of arms (Londres)"
+        ],
+        "ISNI": "0000000404228686",
+        "space": "london",
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "133196672": {
+        "name": "Biblioteca medicea laurenziana",
+        "alternativeNames": [
+            "Biblioteka Laurenziana (Florencja)",
+            "Biblioteca Medicea Laurenziana (Florencja).",
+            "Medicean-Laurentian Library",
+            "Biblioteca medicea laurenziana (Firenze)",
+            "Biblioteca Medicea Laurenziana Florence, Italie"
+        ],
+        "ISNI": "0000000122867164",
+        "space": "florenz",
+        "cityGEO": {
+            "id": 3176959,
+            "name": "Florence",
+            "admin1": "Tuscany",
+            "point": "POINT(11.24626 43.77925)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "150088932": {
+        "name": "Bibliothèque Interuniversitaire Section Médecine",
+        "alternativeNames": [
+            "Bibliothèque interuniversitaire (Montpellier, Francie). Section médecine",
+            "Bibliothèque interuniversitaire (Montpellier, France). Section médecine",
+            "Bibliothèque universitaire Historique de Médecine Montpellier (F-MOf)",
+            "Bibliothèque interuniversitaire de Montpellier"
+        ],
+        "ISNI": "0000000121754440",
+        "space": null,
+        "cityGEO": {
+            "id": 2992166,
+            "name": "Montpellier",
+            "admin1": "Occitanie",
+            "point": "POINT(3.87635 43.61093)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "171159032648901181290": {
+        "name": "L'Académie des Sciences, Belles-Lettres et Arts de Lyon, Bibliothèque Lyon",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2996944,
+            "name": "Lyon",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(4.84671 45.74846)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "144893230": {
+        "name": "Stadtbibliothek Hannover",
+        "alternativeNames": [
+            "Stadtbibliothek, Musikbibliothek Hannover (D-HVs)",
+            "Stadtbibliothek (Hanower).",
+            "Hannover (Germany). Stadtbibliothek",
+            "Stadtbibliothek Hannover (Hannover, Germany)"
+        ],
+        "ISNI": "0000000122600523",
+        "space": "hannover",
+        "cityGEO": {
+            "id": 2910831,
+            "name": "Hanover",
+            "admin1": "Lower Saxony",
+            "point": "POINT(9.73322 52.37052)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "137464537": {
+        "name": "Cumbria Record Office",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2653775,
+            "name": "Carlisle",
+            "admin1": "England",
+            "point": "POINT(-2.9382 54.8951)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "160027068": {
+        "name": "Biblioteca nacional Portugal",
+        "alternativeNames": [
+            "Biblioteca Nacional",
+            "Biblioteca Nacional Portugalija",
+            "Biblioteca Nacional de Portugal",
+            "Biblioteca National"
+        ],
+        "ISNI": "000000010735714X",
+        "space": "lissabon",
+        "cityGEO": {
+            "id": 2267057,
+            "name": "Lisbon",
+            "admin1": null,
+            "point": "POINT(-9.13333 38.71667)",
+            "country": "Portugal"
+        },
+        "geo": "Portugal"
+    },
+    "129738649": {
+        "name": "Abbaye Notre-Dame de Saint-Rémy",
+        "alternativeNames": [
+            "Abbaye Notre-Dame de Saint-Remy Rochefort, Marche-en-Famenne"
+        ],
+        "ISNI": "0000000121564671",
+        "space": null,
+        "cityGEO": {
+            "id": 2787948,
+            "name": "Rochefort",
+            "admin1": "Wallonia",
+            "point": "POINT(5.2216 50.1631)",
+            "country": "Belgium"
+        },
+        "geo": null
+    },
+    "126643108": {
+        "name": "Exeter Cathedral. Library",
+        "alternativeNames": [],
+        "ISNI": "000000010682632X",
+        "space": null,
+        "cityGEO": {
+            "id": 2649808,
+            "name": "Exeter",
+            "admin1": "England",
+            "point": "POINT(-3.52751 50.7236)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "172428812": {
+        "name": "Bibliothèque d'Arras",
+        "alternativeNames": [
+            "Bibliothèque Municipale",
+            "Bibliothèque municipale d'Arras",
+            "Bibliothèque municipale (Arras)"
+        ],
+        "ISNI": "0000000103579589",
+        "space": null,
+        "cityGEO": {
+            "id": 3036784,
+            "name": "Arras",
+            "admin1": "Hauts-de-France",
+            "point": "POINT(2.78186 50.29301)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "131469365": {
+        "name": "Archives nationales France",
+        "alternativeNames": [
+            "Archives nationales (Frankrike)",
+            "Archives nationales (França).",
+            "Archives de France",
+            "Archives nationales",
+            "Archives Nationales (Paris; Pierrefitte-sur-Seine; Fontainebleau)",
+            "Archives nationales (Francia)",
+            "Archives Nationales Paris (F-Pan)",
+            "Direction des archives de France."
+        ],
+        "ISNI": "0000000121589529",
+        "space": "fontainebleau",
+        "cityGEO": {
+            "id": 3018074,
+            "name": "Fontainebleau",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.70177 48.40908)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "152590686": {
+        "name": "Wilhelmsstift. Bibliothek",
+        "alternativeNames": [
+            "Konviktsbibliothek Wilhelmsstift"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2820860,
+            "name": "Tübingen",
+            "admin1": "Baden-Wurttemberg",
+            "point": "POINT(9.05222 48.52266)",
+            "country": "Germany"
+        },
+        "geo": null
+    },
+    "148667823": {
+        "name": "Biblioteca civica Berio Gênes, Italie",
+        "alternativeNames": [
+            "Biblioteca civica Berio (Genoa, Italy)",
+            "Biblioteca civica Berio.",
+            "Biblioteca civica Berio (Genova)",
+            "Biblioteca Berio",
+            "Biblioteca Civica Berio (Genua)",
+            "Biblioteca Civica Berio Genova (I-Gc)"
+        ],
+        "ISNI": "0000000121811855",
+        "space": "genua",
+        "cityGEO": {
+            "id": 3176219,
+            "name": "Genoa",
+            "admin1": "Liguria",
+            "point": "POINT(8.94439 44.40478)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "240610793": {
+        "name": "Kungliga Biblioteket",
+        "alternativeNames": [
+            "Kungl. biblioteket",
+            "Kungliga biblioteket (Stockholm)",
+            "Kungliga biblioteket Suède",
+            "Kungliga Biblioteket (Švédsko)",
+            "Kungliga Bibliotek",
+            "Kungliga Biblioteket (Zviedrija)",
+            "Kungliga Biblioteket (Štokholm, Švédsko)",
+            "Kungliga Biblioteket (Sztokholm).",
+            "Biblioteka Królewska (Szwecja)",
+            "Kungliga biblioteket Sverige",
+            "Suécia., Kungliga Biblioteket",
+            "Kungliga Biblioteket (Suécia)",
+            "Kungliga biblioteket",
+            "Biblioteca Real (Suecia)",
+            "נאציאנאלע ביבליאטעק פון שוועדן"
+        ],
+        "ISNI": "0000000123370977",
+        "space": "stockholm",
+        "cityGEO": {
+            "id": 2673730,
+            "name": "Stockholm",
+            "admin1": null,
+            "point": "POINT(18.06871 59.32938)",
+            "country": "Sweden"
+        },
+        "geo": "Sweden"
+    },
+    "139676854": {
+        "name": "musée Condé",
+        "alternativeNames": [
+            "Musée Condé Chantilly, Oise",
+            "Musée Condé, Château de Chantilly",
+            "Bibliothèque du Musée Condé Chantilly (F-CH)",
+            "Musée Condé (Chantilly)",
+            "Musée Condé (Chantilly, Francia)"
+        ],
+        "ISNI": "0000000123148954",
+        "space": "chantilly",
+        "cityGEO": {
+            "id": 3026827,
+            "name": "Chantilly",
+            "admin1": "Hauts-de-France",
+            "point": "POINT(2.47124 49.19461)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "153705244": {
+        "name": "Nicolaus-Matz-Bibliothek Michelstadt",
+        "alternativeNames": [
+            "Nicolaus-Matz-Bibliothek Michelstadt, Allemagne",
+            "Nicolaus-Matz-Bibliothek"
+        ],
+        "ISNI": "0000000122304206",
+        "space": "michelstadt",
+        "cityGEO": {
+            "id": 2871284,
+            "name": "Michelstadt",
+            "admin1": "Hesse",
+            "point": "POINT(9.00373 49.67569)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "129747833": {
+        "name": "Archives départementales de l'Ardèche",
+        "alternativeNames": [
+            "Archives départementales (Ardèche)",
+            "Ardèche. Archives départementales",
+            "archives départementales de l'Ardèche archives du département de l'Ardèche"
+        ],
+        "ISNI": "0000000121564866",
+        "space": "privas",
+        "cityGEO": {
+            "id": 2985290,
+            "name": "Privas",
+            "admin1": "Auvergne-Rhône-Alpes",
+            "point": "POINT(4.59918 44.735)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "127889581": {
+        "name": "Bibliothèque de la ville de Tournai",
+        "alternativeNames": [
+            "Bibliothèque de la ville de Mons",
+            "Bibliothèque publique (Mons, Belgique)",
+            "Bibliothèque publique (Mons)",
+            "Bibliothèque Publique"
+        ],
+        "ISNI": "0000000106590273",
+        "space": "brugge",
+        "cityGEO": {
+            "id": 2800931,
+            "name": "Bruges",
+            "admin1": "Flanders",
+            "point": "POINT(3.22424 51.20892)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "148865760": {
+        "name": "Abbaye de Clervaux",
+        "alternativeNames": [
+            "Abbaye Saint-Maurice-et-Saint-Maur (Clervaux).",
+            "Abbaye Saint Maurice et Saint Maur (Clerf)",
+            "Klasztor św. Maurycego i św. Maura (Clervaux)",
+            "abbaye Saint-Maurice-et-Saint-Maur",
+            "Abbaye Saint-Maurice-et-Saint-Maur Clervaux, Luxembourg"
+        ],
+        "ISNI": null,
+        "space": "clerf",
+        "cityGEO": {
+            "id": 2960684,
+            "name": "Clervaux",
+            "admin1": null,
+            "point": "POINT(6.03139 50.05472)",
+            "country": "Luxembourg"
+        },
+        "geo": "Luxembourg"
+    },
+    "155307846": {
+        "name": "Bibliothèque municipale de Nantes",
+        "alternativeNames": [
+            "Bibliothèque municipale",
+            "Bibliothèque municipale (Nantes).",
+            "Bibliothèque municipale (Nantes, Loire-Atlantique)",
+            "Bibliothèque municipale Nantes (F-Nm)"
+        ],
+        "ISNI": "0000000106740171",
+        "space": "nantes",
+        "cityGEO": {
+            "id": 2990969,
+            "name": "Nantes",
+            "admin1": "Pays de la Loire",
+            "point": "POINT(-1.55336 47.21725)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "135493691": {
+        "name": "Uniwersytet Jagielloński",
+        "alternativeNames": [
+            "Uniwersytet Jagielloński (Kraków)",
+            "Uniwersytet Jagielloński Cracovie, Pologne",
+            "Uniwersytet Jagielloński w Krakowie",
+            "Ягелонскі ўніверсітэт",
+            "Uniwersytet Jagielloński (Kraków, Polska)"
+        ],
+        "ISNI": "0000000123374740",
+        "space": "krakau",
+        "cityGEO": {
+            "id": 3094802,
+            "name": "Krakow",
+            "admin1": null,
+            "point": "POINT(19.93658 50.06143)",
+            "country": "Poland"
+        },
+        "geo": "Poland"
+    },
+    "122074788": {
+        "name": "Real Academia de la Historia. Biblioteca",
+        "alternativeNames": [
+            "Real Academia de la historia Madrid, Biblioteca",
+            "Academia de la Historia, Madrid. Biblioteca",
+            "Real Academia de la Historia (Španělsko). Biblioteca",
+            "Real Academia de la Historia Biblioteca",
+            "Real Academia de la Historia (Espanya). Biblioteca",
+            "Biblioteca de la Real Academia de la Historia",
+            "Real Academia de la Historia (España) Biblioteca"
+        ],
+        "ISNI": "000000012096936X",
+        "space": null,
+        "cityGEO": {
+            "id": 3117735,
+            "name": "Madrid",
+            "admin1": null,
+            "point": "POINT(-3.70256 40.4165)",
+            "country": "Spain"
+        },
+        "geo": null
+    },
+    "129788129": {
+        "name": "Bodleian Library",
+        "alternativeNames": [
+            "ספריית בודליאנה",
+            "Бодлеянская библиотека",
+            "Biblioteka Bodlejańska",
+            "Bodleian Library (Oxford)",
+            "University of Oxford., Bodleian Library",
+            "Bodleian library Oxford, GB",
+            "Llyfrgell Bodley"
+        ],
+        "ISNI": "0000000123029752",
+        "space": "oxford",
+        "cityGEO": {
+            "id": 2640729,
+            "name": "Oxford",
+            "admin1": "England",
+            "point": "POINT(-1.25596 51.75222)",
+            "country": "United Kingdom"
+        },
+        "geo": "United States"
+    },
+    "125571104": {
+        "name": "Achives départementales du Morbihan",
+        "alternativeNames": [
+            "archives départementales du Morbihan",
+            "Archives Départementales du Morbihan Vannes",
+            "Archives départementales (Morbihan)"
+        ],
+        "ISNI": "0000000121520521",
+        "space": null,
+        "cityGEO": {
+            "id": 2970777,
+            "name": "Vannes",
+            "admin1": "Brittany",
+            "point": "POINT(-2.76205 47.65688)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "134676439": {
+        "name": "Bibliothèque Sainte-Geneviève",
+        "alternativeNames": [
+            "Bibliothèque Sainte-Geneviève Paris (F-Psg)",
+            "Bibliothèque Sainte-Geneviève (París)",
+            "Bibliothèque Sainte-Geneviève (Paris, France)"
+        ],
+        "ISNI": "0000000122894162",
+        "space": "paris",
+        "cityGEO": {
+            "id": 2988507,
+            "name": "Paris",
+            "admin1": "Île-de-France",
+            "point": "POINT(2.3488 48.85341)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "221149196268974790758": {
+        "name": "Lambeth Palace. Library",
+        "alternativeNames": [
+            "Lambeth Palace Library (London)",
+            "Lambeth palace library Londres"
+        ],
+        "ISNI": "0000000122425921",
+        "space": "london",
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "133346225": {
+        "name": "Bibliothèque Municipale",
+        "alternativeNames": [
+            "Médiathèque Équinoxe (Châteauroux, France)",
+            "Médiathëque (Châteauroux)",
+            "Médiathèque Equinoxe Châteauroux",
+            "Equinoxe - La Médiathèque Châteauroux (F-CHAme)"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3026204,
+            "name": "Châteauroux",
+            "admin1": "Centre-Val de Loire",
+            "point": "POINT(1.69362 46.81248)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "122563904": {
+        "name": "El Escorial, Biblioteca del Monasterio de S Lorenzo",
+        "alternativeNames": [
+            "Real Biblioteca de El Escorial",
+            "Espanha., Real Monasterio de San Lorenzo del Escorial., Biblioteca",
+            "Real Biblioteca del Monasterio de San Lorenzo de El Escorial El Escorial (E-E)",
+            "Kloster El Escorial Bibliothek",
+            "Biblioteca del Monestir de l'Escorial",
+            "Real Monasterio de San Lorenzo del Escorial (Madrid). Biblioteca",
+            "Real Monasterio de San Lorenzo de El Escorial. Biblioteca.",
+            "Monasterio de El Escorial. Biblioteca",
+            "Monasterio de San Lorenzo el Real del Escorial (San Lorenzo del Escorial, Espagne). Real Biblioteca"
+        ],
+        "ISNI": "0000000122924536",
+        "space": "el escorial",
+        "cityGEO": {
+            "id": 3110458,
+            "name": "El Escorial",
+            "admin1": "Madrid",
+            "point": "POINT(-4.14738 40.59144)",
+            "country": "Spain"
+        },
+        "geo": "Spain"
+    },
+    "148424799": {
+        "name": "Archives de l'État à Namur",
+        "alternativeNames": [
+            "Archives de l'État (Namur)",
+            "Archives de l'Etat (Belgique ; Namur)",
+            "Belgique. Archives de l'État à Namur",
+            "Archives de l'Etat Namur (B-Naet)"
+        ],
+        "ISNI": "0000000109445936",
+        "space": "namur",
+        "cityGEO": {
+            "id": 2790471,
+            "name": "Namur",
+            "admin1": "Wallonia",
+            "point": "POINT(4.86746 50.4669)",
+            "country": "Belgium"
+        },
+        "geo": "Belgium"
+    },
+    "156622926": {
+        "name": "Biblioteca nazionale marciana",
+        "alternativeNames": [
+            "Biblioteca di San Marco (Venedig)",
+            "Biblioteca nazionale marciana (Venezia)",
+            "Вінниця. Центральна бібліотека",
+            "Itália., Biblioteca Nazionale Marciana",
+            "Biblioteca nazionale Marciana Venise, Italie"
+        ],
+        "ISNI": "0000000114060483",
+        "space": "venedig",
+        "cityGEO": {
+            "id": 3164603,
+            "name": "Venice",
+            "admin1": "Veneto",
+            "point": "POINT(12.33265 45.43713)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "128776887": {
+        "name": "Victoria and Albert Museum",
+        "alternativeNames": [
+            "Victoria and Albert Museum (Dundee)",
+            "Amgueddfa Victoria ac Albert",
+            "Victoria and Albert Museum London",
+            "Victoria and Albert Museum (Londýn, Veľká Británia)",
+            "Victoria and Albert Museum (Londres, Angleterre)",
+            "Victoria and Albert museum (Londres, Royaume-Uni)",
+            "Reino Unido., Victoria and Albert Museum",
+            "Victoria and Albert museum Londres",
+            "ヴィクトリアアンドアルバート美術館"
+        ],
+        "ISNI": "000000045904354X",
+        "space": "london",
+        "cityGEO": {
+            "id": 2643743,
+            "name": "London",
+            "admin1": "England",
+            "point": "POINT(-0.12574 51.50853)",
+            "country": "United Kingdom"
+        },
+        "geo": "United Kingdom"
+    },
+    "143322092": {
+        "name": "Regionaal Historisch Centrum Limburg",
+        "alternativeNames": [
+            "Regionaal Historisch Centrum Limburg (Maastricht, Pays-Bas)",
+            "Regionaal Historisch Centrum Limburg Maastricht"
+        ],
+        "ISNI": "0000000122228514",
+        "space": "maastricht",
+        "cityGEO": {
+            "id": 2751283,
+            "name": "Maastricht",
+            "admin1": "Limburg",
+            "point": "POINT(5.68889 50.84833)",
+            "country": "The Netherlands"
+        },
+        "geo": "The Netherlands"
+    },
+    "130353592": {
+        "name": "Universitäts- und Landesbibliothek Münster",
+        "alternativeNames": [
+            "Universitäts- und Landesbibliothek Münster (D-MÜu)"
+        ],
+        "ISNI": "0000000121573156",
+        "space": "munster westf",
+        "cityGEO": {
+            "id": 2867543,
+            "name": "Münster",
+            "admin1": "North Rhine-Westphalia",
+            "point": "POINT(7.62571 51.96236)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "142721807": {
+        "name": "Biblioteca palatina di Parma",
+        "alternativeNames": [
+            "Biblioteca Palatina Parme, Italie",
+            "Biblioteca Palatina",
+            "Biblioteca Palatina (Parma).",
+            "ספריית הפלאטינה (פארמה)"
+        ],
+        "ISNI": "000000012324708X",
+        "space": "parma",
+        "cityGEO": {
+            "id": 3171457,
+            "name": "Parma",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(10.32618 44.79935)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "143464086": {
+        "name": "Dundee City Archives",
+        "alternativeNames": [
+            "City Archives Dundee (GB-DUca)",
+            "Dundee City Archives UK archive"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 2650752,
+            "name": "Dundee",
+            "admin1": "Scotland",
+            "point": "POINT(-2.97489 56.46913)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "145262876": {
+        "name": "Biblioteca Antonio Panizzi",
+        "alternativeNames": [
+            "Biblioteca municipale Antonio Panizzi (Reggio Emilia)",
+            "Biblioteca Panizzi",
+            "Biblioteca Antonio Panizzi Reggio Emilia, Italie"
+        ],
+        "ISNI": "0000000119414017",
+        "space": "reggio nellemilia",
+        "cityGEO": {
+            "id": 3169522,
+            "name": "Reggio Emilia",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(10.63125 44.69825)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "154303241": {
+        "name": "Bibliothèque municipale",
+        "alternativeNames": [
+            "Bibliothèque municipale (Strasburg)",
+            "Bibliothèque Municipale",
+            "Bordeaux (France). Bibliothèque municipale",
+            "Bibliothèque municipale de Bordeaux",
+            "Bordeaux (Aquitaine, France). Bibliothèque municipale"
+        ],
+        "ISNI": "000000011091869X",
+        "space": "bordeaux",
+        "cityGEO": {
+            "id": 3031582,
+            "name": "Bordeaux",
+            "admin1": "Nouvelle-Aquitaine",
+            "point": "POINT(-0.5805 44.84044)",
+            "country": "France"
+        },
+        "geo": "France"
+    },
+    "132101756": {
+        "name": "Archives départementales du Tarn",
+        "alternativeNames": [
+            "Archives Départementales du Tarn Albi",
+            "Archives départementales (Tarn)"
+        ],
+        "ISNI": "0000000121599356",
+        "space": null,
+        "cityGEO": {
+            "id": 3038261,
+            "name": "Albi",
+            "admin1": "Occitanie",
+            "point": "POINT(2.148 43.9298)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "133435180": {
+        "name": "Boston., Public Library",
+        "alternativeNames": [
+            "Boston Public Library library system in Boston, Massachusetts",
+            "Public Library",
+            "ボストン公共図書館",
+            "Boston Public Library Boston"
+        ],
+        "ISNI": "0000000122873150",
+        "space": "boston mass",
+        "cityGEO": {
+            "id": 4930956,
+            "name": "Boston",
+            "admin1": "Massachusetts",
+            "point": "POINT(-71.05977 42.35843)",
+            "country": "United States"
+        },
+        "geo": "United States"
+    },
+    "151296005": {
+        "name": "Archivio di Stato",
+        "alternativeNames": [
+            "Archivio di Stato (Modena, Itálie)",
+            "Archivio di Stato (Sienne, Italie)",
+            "Archivio di Stato (Modena)",
+            "Archivio di Stato Modena (I-MOs)",
+            "Italie. Archivio di Stato (Sienne)",
+            "Archivio di Stato di Modena"
+        ],
+        "ISNI": "0000000121119113",
+        "space": "modena",
+        "cityGEO": {
+            "id": 3173331,
+            "name": "Modena",
+            "admin1": "Emilia-Romagna",
+            "point": "POINT(10.92539 44.64783)",
+            "country": "Italy"
+        },
+        "geo": "Italy"
+    },
+    "141176281": {
+        "name": "Archivio di Stato",
+        "alternativeNames": [
+            "Archivio di Stato di Treviso",
+            "Archivio di Stato di Treviso (Italy)"
+        ],
+        "ISNI": "0000000095731412",
+        "space": null,
+        "cityGEO": {
+            "id": 3165201,
+            "name": "Treviso",
+            "admin1": "Veneto",
+            "point": "POINT(12.2416 45.66673)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "150572288": {
+        "name": "Biblioteca Nacional",
+        "alternativeNames": [
+            "Biblioteca Nacional Madrid",
+            "Hiszpańska Biblioteka Narodowa",
+            "Espanha., Biblioteca Nacional",
+            "Biblioteca Nacional España",
+            "Biblioteca nacional Espagne",
+            "Biblioteca Nacional (Španielsko)"
+        ],
+        "ISNI": "0000000417659012",
+        "space": null,
+        "cityGEO": {
+            "id": 3117735,
+            "name": "Madrid",
+            "admin1": null,
+            "point": "POINT(-3.70256 40.4165)",
+            "country": "Spain"
+        },
+        "geo": null
+    },
+    "138310280": {
+        "name": "St John's College Library",
+        "alternativeNames": [
+            "St. John's College, The Library Cambridge (GB-Cjc)",
+            "St. John's college Cambridge, GB, Library",
+            "St John's College (Cambridge) Library",
+            "St. John's College (Oxford). Library",
+            "St. John's College (University of Oxford). Library"
+        ],
+        "ISNI": "0000000123097261",
+        "space": null,
+        "cityGEO": {
+            "id": 2653941,
+            "name": "Cambridge",
+            "admin1": "England",
+            "point": "POINT(0.11667 52.2)",
+            "country": "United Kingdom"
+        },
+        "geo": null
+    },
+    "22159032531501181042": {
+        "name": "Biblioteca comunale Fabriano",
+        "alternativeNames": [],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3177315,
+            "name": "Fabriano",
+            "admin1": "The Marches",
+            "point": "POINT(12.90327 43.33941)",
+            "country": "Italy"
+        },
+        "geo": null
+    },
+    "149392350": {
+        "name": "Bibliothèque Municipale",
+        "alternativeNames": [
+            "Bibliothèque municipale Boulogne-sur-Mer (F-BSM)",
+            "Bibliothèque municipale des Annonciades (Boulogne-sur-Mer, Pas-de-Calais)",
+            "Bibliothèque des Annonciades Boulogne-sur-Mer, Pas-de-Calais"
+        ],
+        "ISNI": null,
+        "space": null,
+        "cityGEO": {
+            "id": 3031133,
+            "name": "Boulogne-sur-Mer",
+            "admin1": "Hauts-de-France",
+            "point": "POINT(1.61373 50.72485)",
+            "country": "France"
+        },
+        "geo": null
+    },
+    "154192976": {
+        "name": "Universitätsbibliothek Gießen",
+        "alternativeNames": [
+            "Universitätsbibliothek Giessen (Alemania)",
+            "Universitätsbibliothek Gießen, Allemagne",
+            "Justus-Liebig-Universität, Universitätsbibliothek Gießen (D-GI)"
+        ],
+        "ISNI": "0000000123593820",
+        "space": "giessen",
+        "cityGEO": {
+            "id": 2920512,
+            "name": "Giessen",
+            "admin1": "Hesse",
+            "point": "POINT(8.67554 50.58727)",
+            "country": "Germany"
+        },
+        "geo": "Germany"
+    },
+    "150819331": {
+        "name": "Biblioteca de Montserrat",
+        "alternativeNames": [
+            "Montserrat (abbazia benedettina). Biblioteca",
+            "Abadía de Montserrat. Biblioteca",
+            "Montserrat (Monestir). Biblioteca",
+            "Montserrat (Abbey). Biblioteca",
+            "Kloster Montserrat Bibliothek",
+            "Montserrat (kloster) Biblioteca",
+            "Arxiu Històric Musical de Montserrat - Biblioteca de Montserrat Montserrat (E-MO)"
+        ],
+        "ISNI": "0000000119573317",
+        "space": "montserrat provinz barcelona",
+        "cityGEO": {
+            "id": 3128760,
+            "name": "Barcelona",
+            "admin1": "Catalonia",
+            "point": "POINT(2.15899 41.38879)",
+            "country": "Spain"
+        },
+        "geo": "Spain"
+    }
+}
